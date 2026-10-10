@@ -1,0 +1,1875 @@
+{
+ "lang": "en",
+ "ui": {
+  "motto": "Your smile is your best business card",
+  "nav_home": "Home",
+  "nav_sections": "Sections",
+  "nav_settings": "Settings",
+  "back": "Back",
+  "sections_title": "Sections",
+  "sections_sub": "Everything you need, in one place",
+  "card_howto_title": "How to reach us",
+  "card_howto_sub": "Directions, map and transport",
+  "card_after_title": "Aftercare tips",
+  "card_after_sub": "Everything you need for proper healing",
+  "card_pills_title": "Dental insights",
+  "card_pills_sub": "Science-based insights into dentistry",
+  "call": "Call the practice",
+  "offline": "You are offline: content is still available.",
+  "install_title": "Add the app to your Home screen",
+  "install_btn": "Add to Home screen",
+  "install_close": "Close",
+  "read_time": "{n} min read",
+  "footer_call": "Any doubts? Call the practice",
+  "contact_btn": "Contact us",
+  "install_sub": "You'll find it among your apps, with the practice logo, and open it with one tap.",
+  "install_ok": "Got it",
+  "install_later": "Later",
+  "install_settings": "Add to Home screen",
+  "install_done": "The app is already on your Home screen",
+  "install_hint_bottom": "The menu is down here",
+  "install_hint_top": "The menu is up here",
+  "install_steps": {
+   "ios26": [
+    "Tap the three dots {dots} at the bottom right",
+    "Tap {share} <b>Share</b>",
+    "Scroll down and choose {plus} <b>“Add to Home Screen”</b>",
+    "Confirm with <b>“Add”</b> at the top right"
+   ],
+   "ios": [
+    "Tap the {share} <b>Share</b> icon in the bottom bar",
+    "Scroll down and choose {plus} <b>“Add to Home Screen”</b>",
+    "Confirm with <b>“Add”</b> at the top right"
+   ],
+   "iosother": [
+    "Tap the {share} <b>Share</b> icon next to the address bar",
+    "Choose {plus} <b>“Add to Home Screen”</b>",
+    "Confirm with <b>“Add”</b>"
+   ],
+   "android": [
+    "Tap the three dots {vdots} at the top right",
+    "Choose {plus} <b>“Add to Home screen”</b> or <b>“Install app”</b> (if you can't see it, look inside <b>“Share”</b>)",
+    "Confirm with <b>“Install”</b> or <b>“Add”</b>"
+   ],
+   "desktop": [
+    "Open this address in your phone's browser",
+    "Follow the instructions shown at start-up"
+   ]
+  },
+  "staff_title": "Our team",
+  "staff_sub": "The people who will welcome you at the practice",
+  "review_btn": "Leave a review",
+  "review_sub": "We'd love to hear how you got on with us!",
+  "card_meds_title": "Medicines and dental care",
+  "card_meds_sub": "What to know and what to tell us before treatment",
+  "phone_word": "Phone",
+  "swipe": "Swipe to see everyone",
+  "card_staff_sub": "The people who will welcome you at the practice"
+ },
+ "studio": {
+  "name": "Dental Medicine Firenze",
+  "address": "Viale Spartaco Lavagnini 47",
+  "city": "50129 Florence (FI), Italy",
+  "phone_label": "+39 055 483706",
+  "phone_href": "tel:+39055483706",
+  "review_url": "https://search.google.com/local/writereview?placeid=ChIJr596-x1UKhMR-zmVd64HQ1Q"
+ },
+ "howto": {
+  "title": "How to reach us",
+  "sub": "Directions, map and transport",
+  "address_label": "Address",
+  "phone_label": "Phone",
+  "open_maps": "Open in navigator",
+  "open_google": "Google Maps",
+  "open_apple": "Apple Maps",
+  "map_offline": "The map needs an internet connection. Address: Viale Spartaco Lavagnini 47, Florence.",
+  "tabs": {
+   "car": "Car",
+   "train": "Train",
+   "tram": "Tram",
+   "walk": "On foot"
+  },
+  "car": {
+   "title": "By car",
+   "text": [
+    "The practice is located at Viale Spartaco Lavagnini 47, Florence, in the Fortezza area. The area is well connected to the main city roads and easy to reach both from the city centre and from the ring roads.",
+    "We recommend parking at **Garage Indipendenza**, which has an agreement with the practice, and walking to us in about 3 minutes."
+   ]
+  },
+  "train": {
+   "title": "By train",
+   "intro": "From Florence Santa Maria Novella Station you can reach the practice:",
+   "list": [
+    "**on foot:** about 750 metres (10 minutes), via Piazza Adua and Via Cennini;",
+    "**by tram:** take the T2 from Valfonda and get off after 2 stops at Lavagnini Fortezza, right in front of the practice."
+   ],
+   "outro": "From Florence Rifredi Station you can arrive by local public transport; we suggest checking the updated route in real time."
+  },
+  "tram": {
+   "title": "By tram",
+   "intro": "The practice is served by the Florence tram network. The most convenient stops are:",
+   "col_stop": "Stop",
+   "col_line": "Line",
+   "col_walk": "On foot",
+   "stops": [
+    {
+     "name": "Lavagnini Fortezza",
+     "note": "in front of the practice",
+     "lines": [
+      "T2"
+     ],
+     "walk": "50 m · 1 min"
+    },
+    {
+     "name": "Strozzi – Fallaci",
+     "lines": [
+      "T1"
+     ],
+     "walk": "300 m · 4 min"
+    },
+    {
+     "name": "Fortezza",
+     "lines": [
+      "T1",
+      "T2"
+     ],
+     "walk": "400 m · 5 min"
+    },
+    {
+     "name": "Lavagnini Poliziano",
+     "lines": [
+      "T2"
+     ],
+     "walk": "400 m · 5 min"
+    }
+   ],
+   "lines": "**T1** Villa Costanza ↔ Careggi · **T2** Peretola Airport ↔ San Marco.",
+   "outro": "The **Lavagnini Fortezza (T2)** stop is the most convenient: it is right in front of the practice. From the airport: T2 to Lavagnini Fortezza."
+  },
+  "walk": {
+   "title": "On foot",
+   "intro": "The practice is in a convenient location to reach on foot.",
+   "list": [
+    "**From S.M. Novella Station:** about 750 m (10 minutes), via Piazza Adua and Via Cennini.",
+    "The area is well connected and full of shops and services; the route is flat and suitable for everyone."
+   ]
+  },
+  "parking": {
+   "badge": "Agreement",
+   "title": "Discounted parking",
+   "garage": "Garage Indipendenza",
+   "garage_addr": "Via Enrico Poggi 12/r",
+   "garage_dist": "just 200 m from the practice · about 3 minutes on foot",
+   "rates_label": "Rates reserved for our patients",
+   "rates": [
+    {
+     "label": "Small cars",
+     "value": "€6",
+     "unit": "/ hour"
+    },
+    {
+     "label": "Medium cars",
+     "value": "€7",
+     "unit": "/ hour"
+    },
+    {
+     "label": "SUVs and vans",
+     "value": "€8",
+     "unit": "/ hour"
+    }
+   ],
+   "how": "To get the discounted rate, please tell the cashier that you are a patient of Dental Medicine Firenze.",
+   "nav": "Take me to the garage"
+  },
+  "other_parking": {
+   "title": "Other car parks",
+   "sub": "No agreement · approximate walking distances",
+   "items": [
+    {
+     "code": "P1",
+     "name": "Piazza Indipendenza",
+     "note": "paid on-street parking",
+     "walk": "150 m · 2 min"
+    },
+    {
+     "code": "P2",
+     "name": "Mercato Centrale",
+     "note": "Piazza del Mercato Centrale · underground",
+     "walk": "650 m · 8 min"
+    },
+    {
+     "code": "P3",
+     "name": "Fortezza Fiera",
+     "note": "Piazzale Caduti nei Lager · underground",
+     "walk": "700 m · 9 min"
+    },
+    {
+     "code": "P4",
+     "name": "S.M. Novella Station",
+     "note": "Piazza della Stazione · then T2 from Valfonda",
+     "walk": "750 m · 10 min"
+    },
+    {
+     "code": "P5",
+     "name": "Parterre",
+     "note": "Piazza della Libertà · then T2 from Libertà Parterre",
+     "walk": "1.1 km · 14 min"
+    }
+   ]
+  }
+ },
+ "aftercare": {
+  "title": "Aftercare",
+  "sub": "Everything you need for proper healing",
+  "disclaimer": "These indications are general and do not replace your dentist's instructions. If you have any doubts, severe pain or problems, contact the practice immediately: +39 055 483706.",
+  "item_sub": "Instructions and diet for the following days",
+  "h_done": "What was done",
+  "h_first": "What to do in the first hours",
+  "h_diet": "Diet day by day",
+  "h_yes": "Recommended food",
+  "h_no": "Food to avoid",
+  "h_alarm": "Call the practice immediately if…",
+  "h_hygiene": "Hygiene and precautions",
+  "items": [
+   {
+    "slug": "estrazione",
+    "icon": "tooth-out",
+    "title": "Tooth extraction",
+    "done": "A tooth has been removed. Mild discomfort in the area is normal for a few days. Healing usually takes 1-2 weeks.",
+    "first": [
+     "Keep the gauze in place for as long as your dentist advised, biting gently.",
+     "Do not rinse your mouth for the first 24 hours.",
+     "Do not smoke.",
+     "Apply ice on the outside of the cheek (20 min on / 20 min off) to reduce swelling."
+    ],
+    "diet": [
+     [
+      "Day 1",
+      "Cold or room-temperature food only, liquid/blended. E.g. yoghurt, smoothies, ice cream, puddings, cold vegetable soups."
+     ],
+     [
+      "Days 2-3",
+      "Lukewarm, soft food, chewing on the opposite side. E.g. mashed potatoes, lukewarm soups, ricotta, scrambled eggs, soft fish."
+     ],
+     [
+      "Days 4-7",
+      "Gradually return to firmer food, chewing on the other side. E.g. well-cooked pasta, rice, tender meat, cooked vegetables."
+     ],
+     [
+      "From week 2",
+      "Normal diet, avoiding very hard or crunchy food in the area for a few days."
+     ]
+    ],
+    "yes": [
+     "yoghurt",
+     "smoothies",
+     "ice cream",
+     "puddings",
+     "mashed potatoes",
+     "lukewarm soups",
+     "eggs",
+     "fish",
+     "ricotta",
+     "bananas"
+    ],
+    "no": [
+     "hot food (boiling soups, hot tea)",
+     "hard/crunchy food (crusty bread, breadsticks, nuts, chips)",
+     "spicy food",
+     "alcohol",
+     "smoking",
+     "fizzy drinks and straws in the first 24-48 hours (risk of dislodging the clot)"
+    ],
+    "alarm": [
+     "severe throbbing pain that gets worse after day 3",
+     "bleeding that will not stop",
+     "fever",
+     "significant swelling",
+     "persistent bad taste/smell"
+    ],
+    "hygiene": [
+     "From the next day, rinse gently with lukewarm water and baking soda or the prescribed mouthwash.",
+     "Brush gently, avoiding the treated area for the first few days."
+    ]
+   },
+   {
+    "slug": "denti-del-giudizio",
+    "icon": "tooth-out",
+    "title": "Wisdom teeth removal",
+    "done": "One or more wisdom teeth (third molars) have been removed — a minor oral surgery. Swelling and discomfort for 3-5 days is normal.",
+    "first": [
+     "Keep the gauze in place for as long as your dentist advised, biting gently.",
+     "Ice on the cheek immediately and for the first 24-48 hours (20 min on / 20 min off).",
+     "Rest, avoid exertion.",
+     "Sleep with your head slightly raised."
+    ],
+    "diet": [
+     [
+      "Day 1",
+      "Cold, liquid/blended food only (yoghurt, smoothies, ice cream, puddings). No chewing."
+     ],
+     [
+      "Days 2-3",
+      "Lukewarm, soft food, no chewing in the area. Mashed potatoes, lukewarm soups, ricotta, eggs, soft fish, blended soups."
+     ],
+     [
+      "Days 4-7",
+      "Firmer soft food, chewing on the other side: well-cooked pasta, rice, tender meat, cooked vegetables."
+     ],
+     [
+      "From week 2",
+      "Gradual return to normal, avoiding hard/crunchy food."
+     ]
+    ],
+    "yes": [
+     "yoghurt",
+     "smoothies",
+     "ice cream",
+     "puddings",
+     "mashed potatoes",
+     "lukewarm soups",
+     "eggs",
+     "fish",
+     "ricotta",
+     "bananas",
+     "soft fruit"
+    ],
+    "no": [
+     "hot food",
+     "hard/crunchy food",
+     "spicy food",
+     "alcohol",
+     "smoking",
+     "fizzy drinks",
+     "straws (for at least 3-4 days)",
+     "food requiring wide mouth opening (large sandwiches, steaks)"
+    ],
+    "alarm": [
+     "pain that increases after day 3-4",
+     "worsening difficulty opening the mouth",
+     "fever",
+     "increasing swelling",
+     "pus or persistent bad taste",
+     "continuous bleeding"
+    ],
+    "hygiene": [
+     "From the next day, gentle rinses.",
+     "Brush gently avoiding the area; do not use a mouthwash straw.",
+     "Follow the prescribed treatment."
+    ]
+   },
+   {
+    "slug": "implantologia",
+    "icon": "implant",
+    "title": "Dental implants",
+    "done": "One or more titanium implants have been placed in the jawbone to replace missing teeth. The implant integrates with the bone over 2-4 months (osseointegration).",
+    "first": [
+     "External ice (20 min on / 20 min off) to reduce swelling.",
+     "Avoid touching the area with fingers or tongue.",
+     "Follow the prescribed treatment (painkillers, antibiotics if any) even if there is no pain."
+    ],
+    "diet": [
+     [
+      "Day 1",
+      "Cold/lukewarm, liquid and blended food. No chewing on the area."
+     ],
+     [
+      "Days 2-3",
+      "Soft lukewarm food (vegetable purée, lukewarm soups, ricotta, eggs, yoghurt, smoothies). Always chew on the other side."
+     ],
+     [
+      "Days 4-7",
+      "Firmer soft food (well-cooked pasta, rice, fish, tender minced meat, cooked vegetables)."
+     ],
+     [
+      "From week 2",
+      "Progressively normal diet, avoiding hard, crunchy, sticky food and chewing gum in the implant area throughout healing."
+     ]
+    ],
+    "yes": [
+     "smoothies",
+     "yoghurt",
+     "vegetable soups",
+     "lukewarm soups",
+     "ricotta",
+     "eggs",
+     "fish",
+     "tender minced meat",
+     "mashed potatoes",
+     "soft fruit",
+     "soft cheese"
+    ],
+    "no": [
+     "hard/crunchy food (nuts, crusty bread, chips)",
+     "sticky food (candies, gum)",
+     "very hot food",
+     "spicy food",
+     "alcohol",
+     "smoking (harms healing and implant integration)",
+     "small seeds that may get into the wound"
+    ],
+    "alarm": [
+     "increasing pain",
+     "significant swelling",
+     "implant mobility",
+     "pus",
+     "fever",
+     "bleeding"
+    ],
+    "hygiene": [
+     "Brush gently; use an interdental brush/single tuft only if advised.",
+     "Use the prescribed rinses.",
+     "Do not smoke: it is essential for osseointegration."
+    ]
+   },
+   {
+    "slug": "apicectomia",
+    "icon": "root",
+    "title": "Apicoectomy",
+    "done": "The tip (apex) of a tooth root and the infected tissue around it were removed, to resolve an infection that did not heal with root canal treatment alone. The root end is often sealed as well.",
+    "first": [
+     "Keep the gauze in place for as long as your dentist advised, biting gently.",
+     "External ice (20 min on / 20 min off).",
+     "Rest, avoid exertion and bending.",
+     "Follow the prescribed treatment."
+    ],
+    "diet": [
+     [
+      "Day 1",
+      "Cold/lukewarm, liquid or blended food, no chewing in the area."
+     ],
+     [
+      "Days 2-3",
+      "Soft lukewarm food (mashed potatoes, lukewarm soups, ricotta, eggs, soft fish)."
+     ],
+     [
+      "Days 4-7",
+      "Firmer soft food, chewing on the other side."
+     ],
+     [
+      "From week 2",
+      "Gradual return to normal, avoiding hard food on the area for a few days."
+     ]
+    ],
+    "yes": [
+     "yoghurt",
+     "smoothies",
+     "ice cream",
+     "puddings",
+     "mashed potatoes",
+     "lukewarm soups",
+     "ricotta",
+     "eggs",
+     "fish",
+     "bananas",
+     "soft fruit"
+    ],
+    "no": [
+     "hot food",
+     "hard/crunchy food",
+     "spicy food",
+     "alcohol",
+     "smoking",
+     "fizzy drinks",
+     "straws (for 3-4 days)"
+    ],
+    "alarm": [
+     "increasing pain after 3-4 days",
+     "increasing swelling",
+     "fever",
+     "pus",
+     "continuous bleeding",
+     "tooth mobility"
+    ],
+    "hygiene": [
+     "Gentle rinses from the next day.",
+     "Brush gently avoiding the area.",
+     "Follow the prescribed treatment."
+    ]
+   },
+   {
+    "slug": "chirurgia",
+    "icon": "gum",
+    "title": "Oral and periodontal surgery",
+    "done": "Surgery on the gum and/or bone was performed (e.g. curettage, flap, gum graft, cyst removal). Healing times range from a few days to a few weeks.",
+    "first": [
+     "Keep the gauze in place for as long as your dentist advised, biting gently.",
+     "External ice (20 min on / 20 min off).",
+     "Rest, avoid exertion.",
+     "Follow the prescribed treatment.",
+     "Avoid brushing the treated area."
+    ],
+    "diet": [
+     [
+      "Day 1",
+      "Cold/lukewarm, liquid or blended food, no chewing in the area."
+     ],
+     [
+      "Days 2-3",
+      "Soft lukewarm food, no chewing on the area."
+     ],
+     [
+      "Days 4-7",
+      "Firmer soft food, chewing on the other side."
+     ],
+     [
+      "From week 2",
+      "Gradual return to normal, avoiding hard or irritating food."
+     ]
+    ],
+    "yes": [
+     "yoghurt",
+     "smoothies",
+     "mashed potatoes",
+     "lukewarm soups",
+     "ricotta",
+     "eggs",
+     "fish",
+     "soft fruit",
+     "cooked vegetables"
+    ],
+    "no": [
+     "hot food",
+     "hard/crunchy food",
+     "spicy food",
+     "citrus and acidic food (can irritate)",
+     "alcohol",
+     "smoking",
+     "fizzy drinks",
+     "straws"
+    ],
+    "alarm": [
+     "increasing pain",
+     "increasing swelling",
+     "fever",
+     "pus",
+     "continuous bleeding",
+     "gum detachment"
+    ],
+    "hygiene": [
+     "Strictly follow the practice's instructions (soft toothbrush, prescribed mouthwash, chlorhexidine rinses if any).",
+     "Do not brush the treated area until advised."
+    ]
+   },
+   {
+    "slug": "devitalizzazione",
+    "icon": "root",
+    "title": "Root canal treatment",
+    "done": "The pulp (nerve) of the tooth, which was inflamed or infected, has been removed, and the canal cleaned and sealed. The tooth stays in the mouth but is no longer “alive”. A crown is often needed to protect it.",
+    "first": [
+     "The tooth may be tender to pressure for 2-3 days: this is normal.",
+     "Avoid chewing on it.",
+     "Take the prescribed painkillers if needed."
+    ],
+    "diet": [
+     [
+      "Day 1",
+      "Avoid chewing on that tooth; prefer soft/lukewarm food, chewing on the other side."
+     ],
+     [
+      "Days 2-3",
+      "Soft food, always chewing on the other side."
+     ],
+     [
+      "Days 4-7",
+      "You can gradually return to normal; still avoid very hard food on that tooth until the final crown."
+     ],
+     [
+      "Until the crown",
+      "No hard/crunchy food on the treated tooth (risk of fracture): a root-treated tooth is more fragile."
+     ]
+    ],
+    "yes": [
+     "soft food",
+     "lukewarm food",
+     "chewing on the other side"
+    ],
+    "no": [
+     "very hard/crunchy food on the treated tooth (nuts, ice, bones, hard candy)",
+     "very hot food if there is still sensitivity",
+     "alcohol and smoking"
+    ],
+    "alarm": [
+     "severe throbbing pain that does not go away with painkillers",
+     "cheek swelling",
+     "fever",
+     "pain increasing over the following days"
+    ],
+    "hygiene": [
+     "Brush normally but gently on the treated tooth.",
+     "Use dental floss carefully."
+    ]
+   },
+   {
+    "slug": "otturazione",
+    "icon": "tooth",
+    "title": "Filling",
+    "done": "The decay was removed and the tooth rebuilt with a filling (composite). If anaesthesia was used, the “numb lip” feeling fades within a few hours.",
+    "first": [
+     "Be careful not to bite your lips or cheeks until the anaesthesia has worn off.",
+     "Avoid very hot food and drinks while the area is numb."
+    ],
+    "diet": [
+     [
+      "Day 1",
+      "Avoid chewing in the area until the anaesthesia has worn off; lukewarm/soft food."
+     ],
+     [
+      "Days 2-3",
+      "Normal diet, but careful with the area if there is sensitivity."
+     ],
+     [
+      "From day 4",
+      "Normal diet."
+     ]
+    ],
+    "yes": [
+     "room-temperature or lukewarm food",
+     "soft food"
+    ],
+    "no": [
+     "very hot food while numb or sensitive",
+     "very cold food if the tooth is sensitive"
+    ],
+    "alarm": [
+     "pain that increases over the following days",
+     "sensitivity that does not fade after 1-2 weeks",
+     "a filling that comes off"
+    ],
+    "hygiene": [
+     "Brush normally.",
+     "If sensitivity persists, use a toothpaste for sensitive teeth."
+    ]
+   },
+   {
+    "slug": "corona",
+    "icon": "crown",
+    "title": "Crown and fixed prosthesis",
+    "done": "A crown, bridge or fixed prosthesis has been placed (or temporarily cemented) to rebuild/protect a tooth. If it is a temporary crown, slight sensitivity is normal.",
+    "first": [
+     "Beware of sticky food (candies, gum) that can dislodge a temporary crown."
+    ],
+    "diet": [
+     [
+      "Day 1",
+      "Soft/lukewarm food, avoid chewing on the newly placed crown."
+     ],
+     [
+      "Days 2-3",
+      "Soft food; no sticky or very hard food."
+     ],
+     [
+      "Days 4-7",
+      "Almost normal diet, careful with food that can pull on a temporary crown."
+     ],
+     [
+      "With a temporary crown",
+      "Avoid hard, crunchy and sticky food until final cementation."
+     ]
+    ],
+    "yes": [
+     "soft food",
+     "lukewarm food",
+     "food cut into small pieces"
+    ],
+    "no": [
+     "sticky food (candies, gum, dates)",
+     "very hard food (nuts, ice, crusty bread)",
+     "biting directly on objects (pens, nails)"
+    ],
+    "alarm": [
+     "a crown that comes off or moves (do not try to reattach it yourself)",
+     "increasing pain",
+     "gum swelling",
+     "persistent bad taste under the crown",
+     "fever"
+    ],
+    "hygiene": [
+     "Brush normally.",
+     "Use an interdental brush or floss around the crown."
+    ]
+   },
+   {
+    "slug": "protesi-rimovibile",
+    "icon": "denture",
+    "title": "Removable denture",
+    "done": "A removable prosthesis (denture) has been delivered or adjusted. An adaptation period of a few weeks is normal, with possible pressure points.",
+    "first": [
+     "Wear it as advised by the practice.",
+     "If pain points appear, do not adjust the denture yourself: contact the practice for a check and a touch-up."
+    ],
+    "diet": [
+     [
+      "Days 1-3",
+      "Start with soft food cut into small pieces. Chew on both sides for stability."
+     ],
+     [
+      "Days 4-7",
+      "Gradually introduce slightly firmer food, always cut small."
+     ],
+     [
+      "Following weeks",
+      "Gradually widen the diet."
+     ]
+    ],
+    "yes": [
+     "soft food cut into pieces",
+     "soups",
+     "mashed potatoes",
+     "eggs",
+     "fish",
+     "cooked vegetables",
+     "soft fruit"
+    ],
+    "no": [
+     "hard and sticky food (candies, gum, very hard bread)",
+     "food that crumbles easily",
+     "very hot food"
+    ],
+    "alarm": [
+     "persistent pain or sores",
+     "a denture that does not fit well",
+     "difficulty eating or speaking for weeks",
+     "nausea"
+    ],
+    "hygiene": [
+     "Clean the denture every day (dedicated brush, no abrasive toothpaste).",
+     "Also clean mouth and gums.",
+     "Remove the denture at night if advised."
+    ]
+   },
+   {
+    "slug": "igiene",
+    "icon": "sparkle",
+    "title": "Professional cleaning",
+    "done": "Professional cleaning was performed, removing plaque and tartar, with polishing. Gums may be slightly red or sensitive for 1-2 days.",
+    "first": [
+     "Avoid food and drinks that stain (coffee, tea, red wine, blueberries, curry) and smoking for the first 24-48 hours."
+    ],
+    "diet": [
+     [
+      "Days 1-2",
+      "Lukewarm, low-staining food."
+     ],
+     [
+      "From day 3",
+      "Normal diet."
+     ]
+    ],
+    "yes": [
+     "water",
+     "dairy",
+     "white meat",
+     "fish",
+     "rice",
+     "pasta",
+     "light-coloured vegetables",
+     "light fruit"
+    ],
+    "no": [
+     "coffee",
+     "tea",
+     "red wine",
+     "coloured drinks",
+     "blueberries and berries",
+     "curry",
+     "beetroot",
+     "chocolate (for 24-48 hours)",
+     "smoking"
+    ],
+    "alarm": [
+     "gum bleeding lasting more than a few days",
+     "increasing pain",
+     "tooth mobility"
+    ],
+    "hygiene": [
+     "Brush with a soft toothbrush.",
+     "Use dental floss every day.",
+     "Prescribed mouthwash if any."
+    ]
+   },
+   {
+    "slug": "sbiancamento",
+    "icon": "sun",
+    "title": "Teeth whitening",
+    "done": "Teeth whitening (in-office or with home trays) has been performed. Temporary sensitivity to hot/cold for a few days is normal.",
+    "first": [
+     "Avoid food and drinks that stain for at least 48 hours."
+    ],
+    "diet": [
+     [
+      "Days 1-2",
+      "“White diet”: pasta, rice, chicken, fish, potatoes, milk, yoghurt, bananas, peeled apples, white bread."
+     ],
+     [
+      "Days 3-7",
+      "Gradually introduce other low-staining food; still avoid coffee, tea, wine and smoking if possible."
+     ],
+     [
+      "From week 2",
+      "Normal diet."
+     ]
+    ],
+    "yes": [
+     "rice",
+     "pasta",
+     "chicken",
+     "fish",
+     "potatoes",
+     "milk",
+     "yoghurt",
+     "bananas",
+     "peeled apples",
+     "white cheese"
+    ],
+    "no": [
+     "coffee",
+     "tea",
+     "red wine",
+     "coloured juices",
+     "blueberries and berries",
+     "curry",
+     "beetroot",
+     "chocolate",
+     "soy sauce",
+     "tomato",
+     "smoking (at least 48 hours)"
+    ],
+    "alarm": [
+     "intense and persistent sensitivity beyond one week",
+     "spontaneous pain",
+     "unusually bleeding gums"
+    ],
+    "hygiene": [
+     "Use toothpaste for sensitive teeth if advised.",
+     "Do not use additional whitening products without your dentist's advice."
+    ]
+   },
+   {
+    "slug": "sigillanti",
+    "icon": "child",
+    "title": "Sealants and treatments for children",
+    "done": "A sealant (a protective coating) has been applied to the grooves of the molars to prevent decay, or a treatment on baby teeth was performed (filling, cleaning, fluoride).",
+    "first": [
+     "The child/teenager can eat normally once any anaesthesia wears off.",
+     "Avoid sticky and very hard food in the following hours."
+    ],
+    "diet": [
+     [
+      "Day 1",
+      "Soft, lukewarm food; if anaesthesia was used, avoid hot food."
+     ],
+     [
+      "Days 2-3",
+      "Normal diet, avoiding sticky candy and hard food."
+     ],
+     [
+      "From day 4",
+      "Normal diet."
+     ]
+    ],
+    "yes": [
+     "yoghurt",
+     "soft fruit",
+     "milk",
+     "soft bread",
+     "pasta",
+     "rice",
+     "cheese"
+    ],
+    "no": [
+     "sticky candies",
+     "gum",
+     "popcorn",
+     "hard food (nuts)",
+     "sugary drinks"
+    ],
+    "alarm": [
+     "increasing pain",
+     "swelling",
+     "fever",
+     "a sealant that seems to come off"
+    ],
+    "hygiene": [
+     "Continue daily hygiene with an age-appropriate toothbrush and fluoride toothpaste."
+    ]
+   }
+  ]
+ },
+ "insights": {
+  "title": "Dental insights",
+  "sub": "Simple, science-based insights to better understand your oral health",
+  "disclaimer": "The information in this section is for educational purposes and does not replace your dentist's advice. For any question about your specific situation, book an appointment or contact the practice at +39 055 483706.",
+  "h_takeaway": "What it means for you",
+  "items": [
+   {
+    "slug": "parodontite",
+    "icon": "gum",
+    "title": "Periodontitis",
+    "subtitle": "What it is, how to spot it and how it is treated",
+    "question": "My dentist mentioned “periodontitis”: what does it actually mean?",
+    "blocks": [
+     {
+      "h": "What it is",
+      "p": "Periodontitis is a chronic inflammatory disease affecting the tissues that support the tooth: the gum, the periodontal ligament and the alveolar bone. It starts as gingivitis (swollen, bleeding gums), but while gingivitis is reversible, **periodontitis permanently damages the supporting structures**. It is mainly caused by plaque bacteria, which form a “pocket” between the gum and the tooth; over time the bone recedes and teeth become loose, eventually being lost."
+     },
+     {
+      "h": "Why it matters",
+      "p": "It is very common (one of the most widespread diseases in the world) and often **silent**: you can have periodontitis without obvious pain. Typical signs are gums bleeding while brushing, persistent bad breath, receding gums, teeth that look “longer” or loose, and increasing spaces between teeth."
+     },
+     {
+      "h": "What the dentist does",
+      "p": "Measures the pockets with a special probe, assesses bone loss with X-rays, and determines the stage and grade of the disease."
+     },
+     {
+      "h": "Treatment options",
+      "ol": [
+       "**Hygiene and cause-related therapy (non-surgical):** removal of plaque and tartar above and below the gum, using ultrasonic instruments and curettes. It is the first step and is often enough in mild cases.",
+       "**Surgical therapy (flap surgery):** when the disease is advanced, the gum is lifted to clean deeply and reduce the pockets.",
+       "**Bone regeneration:** in selected cases, bone grafts or membranes can be used to rebuild lost bone.",
+       "**Gum grafts:** to cover exposed roots or thicken the gum.",
+       "**Maintenance therapy:** after treatment, regular check-ups (every 3-6 months) are essential; periodontitis is a chronic disease and must be kept under control.",
+       "**Factors to manage:** smoking is the main risk factor (it worsens the disease and reduces treatment success); diabetes, stress and poor oral hygiene also play a role."
+      ]
+     }
+    ],
+    "takeaway": "Periodontitis is not “cured” once and for all with a single treatment: it is controlled with careful daily hygiene, regular visits and, if you smoke, by quitting. The earlier you act, the less the damage. If your gums bleed, it is not “normal”: it is a sign to be checked."
+   },
+   {
+    "slug": "corona",
+    "icon": "crown",
+    "title": "The dental crown",
+    "subtitle": "What it is for and how it works",
+    "question": "Why did my dentist say I need a “crown”?",
+    "blocks": [
+     {
+      "h": "What it is",
+      "p": "A crown is a cap that completely covers the tooth, restoring its original shape, size and strength. It is custom-made in a laboratory and can be made of ceramic, zirconia, metal-ceramic or other materials. **It protects a weakened tooth** and restores its function (chewing) and appearance."
+     },
+     {
+      "h": "When it is needed",
+      "ul": [
+       "after root canal treatment: a root-treated tooth is more fragile and may fracture;",
+       "when the tooth is heavily worn or fractured;",
+       "to rebuild a heavily decayed tooth with little healthy structure left;",
+       "as part of a bridge to replace a missing tooth;",
+       "on top of an implant (“implant-supported crown”);",
+       "for aesthetic reasons (shape, colour, rotation)."
+      ]
+     },
+     {
+      "h": "How the treatment works",
+      "p": "The dentist reduces the tooth by the right amount, takes an impression (traditional or digital with an intraoral scanner), and the crown is made in the laboratory. Meanwhile a **temporary crown** is fitted; at the next appointment the final crown is cemented. The colour is chosen to match the other teeth."
+     },
+     {
+      "h": "Options and alternatives",
+      "ul": [
+       "**Ceramic/zirconia crown:** best aesthetics, excellent biocompatibility.",
+       "**Metal-ceramic crown:** very strong, good aesthetics (the metal may show a dark edge over time).",
+       "**Inlays (overlay/onlay):** less invasive alternatives when enough healthy tooth remains.",
+       "**Temporary crown:** protects the tooth while waiting."
+      ]
+     }
+    ],
+    "takeaway": "A crown does not just “cover” the tooth, it protects it and restores its function: it is often the only way to save a heavily compromised tooth. Longevity depends on hygiene, chewing load and regular check-ups: with proper care a crown can last many years. Avoid chewing hard food on the temporary crown."
+   },
+   {
+    "slug": "implantologia",
+    "icon": "implant",
+    "title": "Dental implants",
+    "subtitle": "How a missing tooth is replaced",
+    "question": "I lost a tooth: is an implant really the best option?",
+    "blocks": [
+     {
+      "h": "What it is",
+      "p": "A dental implant is a titanium screw placed into the upper or lower jawbone, replacing the root of the missing tooth. Titanium is biocompatible: the bone “accepts” it and fuses with it in a process called **osseointegration** (usually 2-4 months). A crown is then placed on top of the implant to replace the visible tooth."
+     },
+     {
+      "h": "When it is needed",
+      "p": "To replace one, several or all missing teeth; as an alternative to a bridge (which requires trimming the adjacent teeth); to stabilise a removable denture; after trauma or extraction."
+     },
+     {
+      "h": "How the treatment works",
+      "ol": [
+       "**Assessment and planning:** visit, X-rays (often 3D CT) to assess bone quantity and quality; in some cases a bone graft is needed before the implant.",
+       "**Implant placement:** a procedure under local anaesthesia, usually short and minimally invasive; often you leave with a temporary tooth.",
+       "**Osseointegration:** a 2-4 month healing period during which the bone fuses with the implant.",
+       "**Final crown:** after healing, the final prosthetic crown is fitted."
+      ]
+     }
+    ],
+    "takeaway": "An implant is today considered the gold-standard treatment for replacing a single tooth, because it does not damage the adjacent teeth and restores chewing and appearance stably. Do not smoke, keep good hygiene and attend check-ups: these are the three factors that guarantee longevity, often for decades."
+   },
+   {
+    "slug": "carie",
+    "icon": "tooth",
+    "title": "Tooth decay",
+    "subtitle": "How it develops and how it is treated",
+    "question": "How does a tooth get a hole, and can it be prevented?",
+    "blocks": [
+     {
+      "h": "What it is",
+      "p": "Tooth decay is an infectious disease of the tooth caused by bacteria that feed on sugars and produce acids able to dissolve the enamel. If the process is not stopped, the acid penetrates the deeper tissues (dentine, pulp) until it reaches the nerve, causing pain and infection."
+     },
+     {
+      "h": "The factors",
+      "p": "Not just sugar! Inadequate hygiene, saliva (quantity and composition), the contact time of sugars with teeth, and genetic factors/habits also play a role. **Hidden sugars and frequent snacking** play a key role."
+     },
+     {
+      "h": "How to recognise it",
+      "p": "In the early stages decay is **silent** (often visible only on X-rays or with an instrument that “feels” the enamel). As it progresses: sensitivity to sweet, cold and heat, then pain and, in severe cases, an abscess."
+     },
+     {
+      "h": "Treatment options",
+      "ol": [
+       "**Prevention:** correct brushing (2 minutes, twice a day), **dental floss or interdental brush every day** (decay often starts between teeth, where the toothbrush cannot reach), fluoride toothpaste, fewer sugars and snacks, regular check-ups.",
+       "**Early decay:** still reversible with fluoride and sealants.",
+       "**Filling:** removal of the decayed part and rebuilding with composite (aesthetic material).",
+       "**Root canal treatment:** if decay has reached the nerve.",
+       "**Crown:** if the tooth structure is heavily compromised.",
+       "**Extraction:** if the tooth cannot be saved."
+      ]
+     }
+    ],
+    "takeaway": "Decay does not hurt from the start: by the time you feel pain, it has often already reached deep. That is why regular check-ups are so important: a small cavity is easy to treat, a large one requires more complex procedures. Cutting down on sugars and snacks and flossing every day are the most effective things you can do."
+   },
+   {
+    "slug": "devitalizzazione",
+    "icon": "root",
+    "title": "Root canal treatment",
+    "subtitle": "When a tooth “dies” and what to do",
+    "question": "What does “root canal” mean? Is it safe?",
+    "blocks": [
+     {
+      "h": "What it is",
+      "p": "Root canal treatment (**endodontic therapy**) consists of removing the pulp (the “nerve”) of an inflamed or infected tooth, cleaning and disinfecting the canals and sealing them hermetically. Afterwards the tooth is no longer sensitive but continues to function."
+     },
+     {
+      "h": "When it is needed",
+      "p": "When decay has reached the pulp, after trauma that damaged the nerve, in case of an abscess or persistent pain."
+     },
+     {
+      "h": "How the treatment works",
+      "p": "The tooth is anaesthetised, isolated with a rubber dam, and the infected pulp is removed. The canals are cleaned and disinfected; several appointments may be needed. Finally the canals are sealed with a filling material. A crown is often fitted to protect the tooth."
+     },
+     {
+      "h": "Options and alternatives",
+      "p": "Treatment in one or more sessions; **endodontic retreatment** if a previous treatment failed; **apicoectomy** in complex cases; extraction if the tooth cannot be saved."
+     }
+    ],
+    "takeaway": "A root-treated tooth stays in the mouth and works, provided it is protected (often with a crown) and properly cared for. The myth “a root-treated tooth is dead, so it might as well be removed” is false: it is better to keep your own tooth whenever possible. Note: a root-treated tooth no longer hurts, so it can hide problems; periodic X-ray check-ups are needed."
+   },
+   {
+    "slug": "igiene-orale",
+    "icon": "brush",
+    "title": "Daily oral hygiene",
+    "subtitle": "The rules for a healthy mouth",
+    "question": "Am I really brushing my teeth the right way?",
+    "blocks": [
+     {
+      "h": "What it is",
+      "p": "Oral hygiene is the set of daily practices that remove bacterial plaque before it turns into tartar and causes decay or periodontitis. It is **the most effective and cheapest preventive measure** in dentistry."
+     },
+     {
+      "h": "The key rules",
+      "ol": [
+       "**Brush at least twice a day** (morning and evening), for 2 minutes, with a soft-bristled brush and fluoride toothpaste.",
+       "**Use dental floss or interdental brushes every day:** a toothbrush does not clean between the teeth, where most decay and gum disease start.",
+       "**Correct technique:** gentle circular movements, without pressing; include the gum line.",
+       "**Change your toothbrush every 3-4 months** (or sooner if the bristles splay).",
+       "**Clean your tongue** (with a tongue scraper or brush) for breath and plaque.",
+       "**Regular dental check-ups** (usually every 6-12 months).",
+       "**Limit sugars and frequent snacking.**"
+      ]
+     },
+     {
+      "h": "Options and insights",
+      "p": "Electric toothbrush (useful, but technique remains key); water flosser (useful in addition, does not replace floss); mouthwashes (to be used as advised, not as a substitute for brushing); sealants for children."
+     }
+    ],
+    "takeaway": "Brushing well is the best insurance against dental treatment. If you think you have bad breath, if your gums bleed or you do not use floss, ask the practice for a practical demonstration of the technique: two well-spent minutes are worth far more than a treatment."
+   },
+   {
+    "slug": "alimentazione",
+    "icon": "apple",
+    "title": "Diet and teeth",
+    "subtitle": "How what we eat affects our teeth",
+    "question": "Can the food I eat damage or protect my teeth?",
+    "blocks": [
+     {
+      "h": "What it is",
+      "p": "Diet affects oral health in two ways: it provides the nutrients needed by teeth and gums; and the sugars and acids in food and drinks promote decay and erosion."
+     },
+     {
+      "h": "What damages teeth",
+      "ul": [
+       "added sugars and sugary drinks (soft drinks, juices, energy drinks);",
+       "**frequent snacking:** every sugar intake “feeds” the bacteria; the number of times matters more than the amount;",
+       "acidic drinks (soft drinks, citrus, vinegar) that erode enamel;",
+       "refined, sticky carbohydrates (chips, sweets, candy) that stay between the teeth;",
+       "smoking and excess alcohol."
+      ]
+     },
+     {
+      "h": "What protects teeth",
+      "p": "Water (especially instead of soft drinks), dairy (calcium), crunchy fruit and vegetables (stimulate saliva), whole grains, fish (omega-3), green tea, and a balanced diet."
+     },
+     {
+      "h": "Saliva",
+      "p": "It is a powerful natural lubricant and re-mineraliser of enamel. Chewing firm food, drinking water and limiting snacking helps saliva protect enamel between meals."
+     },
+     {
+      "h": "Practical tips",
+      "ol": [
+       "Reduce “hidden” sugars (sauces, ready-made gravies, snacks).",
+       "Limit fizzy drinks and use a straw when possible.",
+       "Do not nibble constantly: structured meals are better than many snacks.",
+       "Rinse with water after acidic food and wait before brushing (enamel is temporarily softened).",
+       "Sugar-free chewing gum (with xylitol) after meals can help."
+      ]
+     }
+    ],
+    "takeaway": "Small daily choices matter much more than a single “treat”. You do not need to give everything up: just limit how often you eat sugar, prefer water and keep up your hygiene. Ask the practice for personalised advice for your situation."
+   },
+   {
+    "slug": "sbiancamento",
+    "icon": "sun",
+    "title": "Teeth whitening",
+    "subtitle": "What actually works and what to avoid",
+    "question": "Can I whiten my teeth? Do DIY remedies work?",
+    "blocks": [
+     {
+      "h": "What it is",
+      "p": "Teeth whitening uses peroxide-based substances (hydrogen or carbamide peroxide) to lighten the colour of enamel and dentine. It is not a “superficial” treatment: **it works in depth and must be performed under professional supervision**."
+     },
+     {
+      "h": "Types of whitening",
+      "ol": [
+       "**In-office:** more concentrated products, with gum protection; quick results, usually in one or a few sessions.",
+       "**At home with trays:** custom trays made by the practice and gel provided by the dentist; gradual results in 1-2 weeks.",
+       "**Combined:** in-office + at-home, for optimal results."
+      ]
+     },
+     {
+      "h": "What does NOT work (and may damage)",
+      "p": "DIY remedies (baking soda, lemon, vinegar, charcoal, abrasive toothpastes) that wear away enamel and can cause erosion and permanent sensitivity; products bought online without clinical supervision."
+     },
+     {
+      "h": "Side effects",
+      "p": "Temporary sensitivity to hot/cold (common and transient), gum irritation if the product touches the gums."
+     }
+    ],
+    "takeaway": "Whitening works when performed by a professional on healthy teeth: teeth and gums must be assessed first (active decay or periodontitis must not be whitened). The result is not permanent: coffee, tea, wine and smoking can re-stain teeth. A whiter smile is not worth a damaged tooth."
+   },
+   {
+    "slug": "afte",
+    "icon": "gum",
+    "title": "Mouth ulcers",
+    "subtitle": "What they are, why they appear and how to soothe them",
+    "question": "I often get small painful sores in my mouth: what are they?",
+    "blocks": [
+     {
+      "h": "What they are",
+      "p": "Mouth ulcers (canker sores) are small round or oval sores, whitish-yellow with a red border, that appear inside the cheeks and lips, on the tongue or on the gums. They are **annoying and painful**, especially when eating or talking, but in most cases they are **harmless** and heal on their own within **7-14 days**, without leaving scars. **They are not contagious**: they are different from cold sores (herpes) on the lip."
+     },
+     {
+      "h": "Why they appear",
+      "p": "There is often no single cause. Factors that can trigger them include:",
+      "ul": [
+       "small injuries: biting your cheek, a toothbrush that is too hard, a brace or denture that rubs;",
+       "stress and tiredness;",
+       "hormonal changes, for example related to the menstrual cycle;",
+       "some foods (citrus fruit, tomato, very spicy or acidic food, nuts);",
+       "low levels of iron, vitamin B12 or folic acid;",
+       "in some people, toothpastes containing sodium lauryl sulphate."
+      ]
+     },
+     {
+      "h": "How to soothe them",
+      "ul": [
+       "**Protective gels or pastes** from the pharmacy, which cover the ulcer and reduce pain.",
+       "**Gentle alcohol-free mouthwashes**, as advised by your dentist or pharmacist.",
+       "Until it heals, avoid spicy, acidic, very salty or crunchy food.",
+       "Use a soft-bristled toothbrush and brush gently near the ulcer.",
+       "**Laser treatment** is also available at the practice, which can reduce pain and speed up healing."
+      ]
+     },
+     {
+      "h": "When to see us",
+      "ul": [
+       "if an ulcer **does not heal within 2 weeks**;",
+       "if they are very large, numerous or come back very often;",
+       "if they appear together with fever, marked tiredness, bowel problems or sores elsewhere on the body;",
+       "if the sore **does not hurt** but does not go away: it should also be checked."
+      ]
+     }
+    ],
+    "takeaway": "Mouth ulcers are very common and almost always harmless, but a sore in the mouth that does not heal within two weeks should always be checked by your dentist. If they keep coming back, talk to us: sometimes changing toothpaste or fixing a small source of rubbing is enough, other times a few blood tests are useful."
+   },
+   {
+    "slug": "denti-da-latte",
+    "icon": "child",
+    "title": "Baby teeth",
+    "subtitle": "Why they matter and how to look after them",
+    "question": "They fall out anyway: is it really worth looking after baby teeth?",
+    "blocks": [
+     {
+      "h": "Why they matter",
+      "p": "There are 20 baby teeth, and they usually come through between 6 months and 3 years of age; they start falling out around age 6 and are gradually replaced until about age 12. They are needed to **chew properly**, to **learn to speak** and above all to **keep the space** for the permanent teeth. Untreated decay can hurt, cause infections and damage the permanent tooth forming underneath."
+     },
+     {
+      "h": "How to clean them",
+      "ol": [
+       "**From the very first tooth:** clean it twice a day with a soft, age-appropriate toothbrush.",
+       "**A tiny amount of fluoride toothpaste:** a grain of rice up to age 3, then a pea-sized amount. Ask your dentist or paediatrician which strength is best.",
+       "**Help your child:** until about 7-8 years old, children do not yet have the skill to brush well on their own. Let them try, then go over it yourself.",
+       "**Dental floss:** once the teeth touch each other, it is useful for children too."
+      ]
+     },
+     {
+      "h": "Diet and habits",
+      "ul": [
+       "**Do not put your child to sleep with a bottle** of milk, juice or sweetened herbal tea: it is a common cause of severe decay in young children.",
+       "Do not dip the dummy (pacifier) in sugar or honey.",
+       "Limit sweets, juices and soft drinks between meals; water is the best drink.",
+       "After 2-3 years of age, try to gradually reduce the dummy and thumb-sucking, which can change the position of the teeth."
+      ]
+     },
+     {
+      "h": "Dental visits",
+      "p": "A **first visit in the early years of life** is useful, even just so your child can get to know the practice calmly, followed by regular check-ups. Around age 6 the first permanent molars come through: in some cases **sealants** are recommended, a protective coating of the grooves against decay. If your child falls and a baby tooth breaks or moves, contact the practice straight away: **a baby tooth that has come out should not be put back in**."
+     }
+    ],
+    "takeaway": "Looking after baby teeth also protects the permanent ones. Habits learned as a child, such as brushing every evening and not having sugary drinks before bed, last a lifetime. If you notice white or dark spots on your child's teeth, book a check-up without waiting for them to hurt."
+   },
+   {
+    "slug": "spazzolino",
+    "icon": "brush",
+    "title": "Electric or manual toothbrush?",
+    "subtitle": "Pros and cons of the two toothbrushes",
+    "question": "Is an electric toothbrush better than a traditional one?",
+    "blocks": [
+     {
+      "h": "What the studies say",
+      "p": "Both toothbrushes clean teeth well **when used correctly**, twice a day for two minutes. Reviews of scientific studies show that electric toothbrushes, especially those with a rotating-oscillating head, remove on average **slightly more plaque** and reduce gum inflammation slightly more than manual ones. The difference is real but modest: technique and consistency matter more than the tool."
+     },
+     {
+      "h": "When an electric toothbrush helps most",
+      "ul": [
+       "if you have **difficulty moving your hands** (for example because of arthritis) or are an older person;",
+       "if you wear an **orthodontic brace** or have implants and fixed bridges;",
+       "for **children**, who often find it more fun;",
+       "if you tend to **brush too hard**: many models have a sensor that warns you when you press too much;",
+       "if you find it hard to keep going for two minutes: the timer helps."
+      ]
+     },
+     {
+      "h": "A manual toothbrush is perfectly fine if",
+      "ul": [
+       "it has **soft bristles** and a small head that reaches the back teeth easily;",
+       "you use a gentle technique, with small movements, including the gum line;",
+       "you **replace it every 3 months**, or sooner if the bristles splay."
+      ]
+     },
+     {
+      "h": "In any case",
+      "ul": [
+       "Replace the head of an electric toothbrush every 3 months, just like a manual one.",
+       "Use a fluoride toothpaste.",
+       "No toothbrush cleans between the teeth: **dental floss or an interdental brush** is still essential every day."
+      ]
+     }
+    ],
+    "takeaway": "The best toothbrush is the one you use well, every day. If you like, during your hygiene appointment ask the hygienist to show you the right technique for your toothbrush and to recommend the model best suited to you."
+   },
+   {
+    "slug": "miti",
+    "icon": "question",
+    "title": "Myths to debunk",
+    "subtitle": "10 common misconceptions about dentistry",
+    "question": "Is what “people say” about teeth actually true?",
+    "myths": [
+     [
+      "“You only need a check-up when it hurts.”",
+      "Pain and problems often appear when the disease is already advanced; regular check-ups allow early, simpler treatment."
+     ],
+     [
+      "“Baby teeth do not need treatment, they fall out anyway.”",
+      "Baby teeth guide the growth of permanent teeth, and untreated decay can damage the teeth underneath."
+     ],
+     [
+      "“Bleeding gums are normal.”",
+      "It is a sign of inflammation (gingivitis or periodontitis) to be assessed."
+     ],
+     [
+      "“A hard toothbrush cleans better.”",
+      "A soft-bristled brush is more effective and does not damage gums and enamel."
+     ],
+     [
+      "“If it does not hurt, I have no decay.”",
+      "Early decay is silent."
+     ],
+     [
+      "“Floss is not needed, I use a toothbrush.”",
+      "A toothbrush does not clean between teeth: floss is essential."
+     ],
+     [
+      "“An implant is always better than a natural tooth.”",
+      "A natural tooth, when it can be saved, is always preferable."
+     ],
+     [
+      "“Whitening toothpastes work miracles.”",
+      "Many are abrasive and wear away enamel; real whitening should be done by a dentist."
+     ],
+     [
+      "“Root canal treatment is painful and dangerous.”",
+      "With modern techniques it is painless and safe; it saves the tooth."
+     ],
+     [
+      "“Smoking only harms the lungs.”",
+      "Smoking increases the risk of periodontitis, decay and oral cancer, and slows every healing after a procedure."
+     ]
+    ],
+    "myth_label": "False",
+    "takeaway": "Getting correct information is the first step in taking care of your mouth. If in doubt, ask the practice: one clear answer is worth more than ten tips found online."
+   },
+   {
+    "slug": "tecnologia",
+    "icon": "chip",
+    "title": "Technology in dentistry",
+    "subtitle": "From 3D imaging to guided surgery",
+    "question": "How has dental care changed in recent years?",
+    "blocks": [
+     {
+      "h": "What it is",
+      "p": "Modern dentistry uses digital technologies that make diagnosis and treatment more precise, faster and more comfortable for patients."
+     },
+     {
+      "h": "The main technologies",
+      "ol": [
+       "**Digital radiography:** much lower radiation dose, immediate and shareable images.",
+       "**3D CT (CBCT):** three-dimensional reconstruction of teeth and bone, essential for surgery and implantology.",
+       "**Intraoral scanner:** replaces traditional impressions (that often unpleasant “paste”) and produces a digital model of the mouth.",
+       "**Digital design (CAD/CAM) and milling:** crowns, inlays and prostheses designed and made by computer, in less time.",
+       "**Guided surgery:** the implant is placed using a surgical guide built on the digital model, with maximum precision and minimal invasiveness.",
+       "**3D printing:** models, guides and temporaries made from a digital project.",
+       "**Laser:** used in several treatments, often with less bleeding and faster healing.",
+       "**Microscope:** magnified vision for highly precise restorative and endodontic treatment."
+      ]
+     }
+    ],
+    "takeaway": "Technology is not a “luxury”: it allows more precise care, fewer appointments, more comfort and sometimes lower costs. It does not replace clinical skill: it helps the dentist make better decisions. Ask the practice whether a treatment can be performed with digital techniques."
+   }
+  ]
+ },
+ "settings": {
+  "title": "Settings",
+  "language": "Language",
+  "language_value": "English",
+  "info": "About",
+  "info_value": "Version {v}",
+  "privacy": "Privacy",
+  "contacts": "Contacts",
+  "share": "Share the app",
+  "share_text": "The patient app of Dental Medicine Firenze. Your smile is your best business card.",
+  "copied": "Link copied to clipboard",
+  "choose_language": "Choose language"
+ },
+ "info": {
+  "title": "About",
+  "body": [
+   "**Dental Medicine Firenze**",
+   "Patient app · Version {v}",
+   "This app is a reference tool for the practice's patients: directions to reach us, aftercare tips and dental insights.",
+   "The content is general and informative and does not in any way replace your dentist's personal instructions.",
+   "Map © OpenStreetMap contributors. Photos: Dental Medicine Firenze."
+  ]
+ },
+ "privacy": {
+  "title": "Privacy",
+  "draft": "Draft to be customised with the practice's final legal text.",
+  "body": [
+   "**Data controller:** Dental Medicine Firenze, Viale Spartaco Lavagnini 47, 50129 Florence, Italy.",
+   "**No personal data collected.** This app is for reference only: it requires no registration, does not ask for your name, email or health data, and sends no information to the practice.",
+   "**Data stored on your device.** The app only stores, on your phone, your language choice and your preference about the install message, so it can remember them next time. This data never leaves your device and is deleted when you remove the app or clear browser data.",
+   "**No profiling cookies and no analytics.**",
+   "**Third-party services.** The map is provided by OpenStreetMap: to display it, your browser downloads map images from their servers, which receive your IP address as with any website. If you choose “Open in navigator”, Google Maps or Apple Maps opens, subject to their own privacy policies.",
+   "**Your rights.** For any privacy question you can contact the practice at +39 055 483706."
+  ]
+ },
+ "contacts": {
+  "title": "Contacts",
+  "phone": "Phone",
+  "address": "Address",
+  "map": "See on the map",
+  "contact_btn": "Contact us"
+ },
+ "staff": [
+  {
+   "group": "Dentists",
+   "people": [
+    [
+     "massimo-frosecchi",
+     "Dr. Massimo Frosecchi"
+    ],
+    [
+     "andrea-barbucci",
+     "Dr. Andrea Barbucci"
+    ],
+    [
+     "giovanna-cuccaro",
+     "Dr. Giovanna Cuccaro"
+    ],
+    [
+     "paola-coscarella",
+     "Dr. Paola Coscarella"
+    ],
+    [
+     "cintia-d-andrea",
+     "Dr. Cintia D'Andrea"
+    ],
+    [
+     "giacomo-faleri",
+     "Dr. Giacomo Faleri"
+    ],
+    [
+     "barbara-petrucci",
+     "Dr. Barbara Petrucci"
+    ]
+   ],
+   "fixed": 1
+  },
+  {
+   "group": "Dental hygienists",
+   "people": [
+    [
+     "dunia",
+     "Dr. Dunia Bambi"
+    ],
+    [
+     "lucia",
+     "Dr. Lucia Bernini"
+    ]
+   ]
+  },
+  {
+   "group": "Dental assistants",
+   "people": [
+    [
+     "claudia-bassetti",
+     "Claudia Bassetti"
+    ],
+    [
+     "lisia-d-andrea-plentz",
+     "Lisia D'Andrea Plentz"
+    ],
+    [
+     "elisa-incardona",
+     "Elisa Incardona"
+    ],
+    [
+     "klara-pochobradska",
+     "Klara Pochobradska"
+    ],
+    [
+     "donatella-signorini",
+     "Donatella Signorini"
+    ]
+   ]
+  },
+  {
+   "group": "Dental technician",
+   "people": [
+    [
+     "alessandro-certini",
+     "Alessandro Certini"
+    ]
+   ]
+  },
+  {
+   "group": "Medical staff",
+   "people": [
+    [
+     "isabelle-fini-storchi",
+     "Dr. Isabelle Fini Storchi"
+    ]
+   ]
+  }
+ ],
+ "meds": {
+  "title": "Medicines and dental care",
+  "sub": "Medicines and health conditions that affect dental treatment",
+  "card_sub": "What to know and what to tell us before treatment",
+  "intro": "Some medicines and some health conditions change the way the mouth heals. Choose the one that applies to you to find out what to watch out for and what to tell us.",
+  "key_title": "Three things to always remember",
+  "key": [
+   "**Bring an up-to-date list of the medicines** you take, including supplements and herbal products. A photo of the packages is perfectly fine.",
+   "**Never stop or change a medicine on your own** before dental treatment. If needed, we decide together with the doctor who prescribed it.",
+   "**Let us know if anything changes**: a new medicine, a new diagnosis, a hospital stay, a pregnancy."
+  ],
+  "cta_title": "Any doubts before your appointment?",
+  "cta_text": "Call us before making any change to your treatment. We will tell you what to do, consulting your doctor if needed.",
+  "disclaimer": "These sheets give general information and do not replace a conversation with your dentist and your doctor. Every situation is assessed in the practice, case by case.",
+  "items": [
+   {
+    "slug": "anticoagulanti",
+    "icon": "drop",
+    "title": "Anticoagulants and antiplatelets",
+    "sub": "Coumadin, Eliquis, Xarelto, low-dose aspirin…",
+    "parts": [
+     {
+      "t": "drugs",
+      "p": "For example: **warfarin** (Coumadin), **acenocoumarol** (Sintrom), **apixaban** (Eliquis), **rivaroxaban** (Xarelto), **dabigatran** (Pradaxa), **edoxaban** (Lixiana), **acetylsalicylic acid** (low-dose aspirin, Cardioaspirina), **clopidogrel** (Plavix), **ticagrelor** (Brilique)."
+     },
+     {
+      "t": "card",
+      "parts": [
+       {
+        "t": "blk",
+        "k": "r",
+        "h": "Why it matters",
+        "p": "These medicines make the blood thinner. After an extraction, surgery or deep cleaning, bleeding may be heavier or last longer."
+       },
+       {
+        "t": "blk",
+        "k": "s",
+        "h": "What to tell us",
+        "ul": [
+         "The name of the medicine, the dose and what time you take it.",
+         "If you take warfarin or Sintrom: your most recent INR value (we usually need a test done a few days before the procedure).",
+         "The name of the doctor or clinic that manages your treatment."
+        ]
+       },
+       {
+        "t": "blk",
+        "k": "o",
+        "h": "What to watch out for",
+        "ul": [
+         "Many treatments can be done without stopping the medicine: in the practice we use techniques and materials that help stop bleeding.",
+         "After the procedure, press on the area with gauze as we show you, and avoid hot food and vigorous rinsing for the first 24 hours.",
+         "For pain, do not take aspirin or anti-inflammatories (such as ibuprofen) without talking to us first: they can increase bleeding."
+        ]
+       }
+      ]
+     },
+     {
+      "t": "never",
+      "p": "Never stop your anticoagulant on your own: it would protect against bleeding but increase the risk of thrombosis, stroke or heart attack."
+     }
+    ]
+   },
+   {
+    "slug": "bifosfonati",
+    "icon": "bone",
+    "title": "Bisphosphonates and denosumab",
+    "sub": "Medicines for osteoporosis and the bones",
+    "lead": "How they work, what risks they carry over time and how to prevent them.",
+    "parts": [
+     {
+      "t": "card",
+      "h": "What they are",
+      "parts": [
+       {
+        "t": "p",
+        "p": "Bisphosphonates are medicines that **strengthen the bones**. They are used mainly against osteoporosis, to prevent fractures, but also in Paget's disease and, at higher doses, in some cancers that affect the bones, such as bone metastases and myeloma. They are taken by mouth, by injection or by drip."
+       },
+       {
+        "t": "drugs",
+        "p": "Most common active ingredients: **alendronate** (Fosamax), **risedronate**, **ibandronate**, **clodronate**, **zoledronic acid** (Zometa, Aclasta). Similar precautions apply to **denosumab** (Prolia, Xgeva)."
+       }
+      ]
+     },
+     {
+      "t": "card",
+      "h": "How they act on the bones",
+      "parts": [
+       {
+        "t": "p",
+        "p": "Bone is a living tissue that renews itself all the time, in two phases."
+       },
+       {
+        "t": "steps",
+        "items": [
+         [
+          "1 · Removal",
+          "**Osteoclasts** remove old or damaged bone. **This is where the medicine acts.**"
+         ],
+         [
+          "2 · Rebuilding",
+          "**Osteoblasts** lay down new bone in its place."
+         ],
+         [
+          "With the medicine",
+          "Stronger bone, but bone that **renews and repairs itself more slowly**.",
+          1
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "p": "The **jaw bones** renew more than other bones, because of chewing and the presence of teeth: they build up more of the medicine and, if they are injured or infected, they may heal with difficulty."
+       }
+      ]
+     },
+     {
+      "t": "card",
+      "h": "The main risk: osteonecrosis of the jaw",
+      "parts": [
+       {
+        "t": "p",
+        "p": "It is a **rare** complication: an area of bone in the lower or upper jaw stays exposed or becomes infected and **does not heal for more than 8 weeks**. It appears mainly after an extraction or bone surgery, or with infections of the teeth and gums or dentures that cause sores."
+       },
+       {
+        "t": "stats",
+        "items": [
+         [
+          "up to 5 in 10,000",
+          "people taking bisphosphonates for osteoporosis",
+          0
+         ],
+         [
+          "fewer than 5 in 100",
+          "patients receiving high-dose zoledronic acid for cancer",
+          1
+         ]
+        ]
+       },
+       {
+        "t": "small",
+        "p": "The risk increases with smoking, diabetes, cortisone and some cancer treatments. In the vast majority of cases the benefits of the medicine remain greater than the risks."
+       }
+      ]
+     },
+     {
+      "t": "card",
+      "h": "The risk over the years",
+      "parts": [
+       {
+        "t": "time",
+        "items": [
+         [
+          "Before starting",
+          "A check-up and X-ray to treat infections and remove compromised teeth."
+         ],
+         [
+          "First years",
+          "With osteoporosis tablets the risk is very low: normal dental care."
+         ],
+         [
+          "After 3–4 years",
+          "The medicine has built up: extractions and implants require specific precautions."
+         ],
+         [
+          "After stopping",
+          "The medicine stays in the bones for years: keep telling your dentist."
+         ]
+        ]
+       },
+       {
+        "t": "onco",
+        "p": "**Cancer treatment by drip:** the risk is higher from the start and increases with the number of infusions. A dental check-up before starting is essential."
+       }
+      ]
+     },
+     {
+      "t": "card",
+      "h": "What you can do",
+      "parts": [
+       {
+        "t": "todo",
+        "items": [
+         [
+          "Always tell us",
+          "Tell dentists and doctors, even if you stopped years ago. If in doubt, bring the medicine package."
+         ],
+         [
+          "Regular check-ups",
+          "A visit every 6 months; every 3–4 months if you receive the medicine by drip for cancer."
+         ],
+         [
+          "Professional cleaning",
+          "A session every 4–6 months keeps tartar and gums under control: it is a safe treatment."
+         ],
+         [
+          "Hygiene at home",
+          "Soft toothbrush twice a day, fluoride toothpaste, floss or interdental brush every evening."
+         ],
+         [
+          "Removable dentures",
+          "Take them out at night and clean them. If they cause a sore or irritation, call the practice straight away."
+         ],
+         [
+          "Do not stop the medicine",
+          "It protects your bones from fractures: any breaks are decided by your doctor, in agreement with the dentist."
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "t": "alert",
+      "h": "Call the practice straight away if you notice",
+      "ul": [
+       "bone visible in the mouth",
+       "red gums or gums with pus",
+       "an extraction that does not heal",
+       "a denture that no longer fits",
+       "pain or swelling in the jaw",
+       "teeth moving for no reason",
+       "numb lip or chin",
+       "bad breath that does not go away"
+      ]
+     },
+     {
+      "t": "note",
+      "p": "Sources: AAOMS Position Paper on MRONJ (2022); SIPMO-SICMF recommendations on medication-related osteonecrosis."
+     }
+    ]
+   },
+   {
+    "slug": "diabete",
+    "icon": "glucose",
+    "title": "Diabetes",
+    "sub": "Tablets, insulin, blood sugar control",
+    "parts": [
+     {
+      "t": "card",
+      "parts": [
+       {
+        "t": "blk",
+        "k": "r",
+        "h": "Why it matters",
+        "p": "With high blood sugar the gums become inflamed more easily, wounds heal more slowly and infections are more frequent. The opposite is also true: treating the gums helps keep diabetes better under control."
+       },
+       {
+        "t": "blk",
+        "k": "s",
+        "h": "What to tell us",
+        "ul": [
+         "What type of diabetes you have and which medicines you take (tablets, insulin, other injections).",
+         "Your latest glycated haemoglobin (HbA1c) value, if you know it.",
+         "Whether you often have low blood sugar episodes (hypoglycaemia)."
+        ]
+       },
+       {
+        "t": "blk",
+        "k": "o",
+        "h": "What to watch out for",
+        "ul": [
+         "On the day of your appointment, eat and take your medicines as usual. Skipping a meal while on insulin or certain tablets can cause low blood sugar.",
+         "Bring some sugar, sweets or fruit juice with you.",
+         "If you feel weak, sweaty, shaky or confused during the session, tell us straight away.",
+         "Check your blood sugar more carefully in the days after a procedure."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "slug": "cuore",
+    "icon": "heart",
+    "title": "Heart and blood pressure",
+    "sub": "Valves, pacemakers, high blood pressure",
+    "parts": [
+     {
+      "t": "card",
+      "parts": [
+       {
+        "t": "blk",
+        "k": "r",
+        "h": "Why it matters",
+        "p": "Some heart conditions require an antibiotic before certain treatments, to prevent bacteria from the mouth from reaching the heart. High blood pressure and some implanted devices also need to be known in advance."
+       },
+       {
+        "t": "blk",
+        "k": "s",
+        "h": "What to tell us",
+        "ul": [
+         "If you have an artificial heart valve, have had endocarditis (an infection of the heart) or have a congenital heart condition.",
+         "If you have a pacemaker or an implanted defibrillator.",
+         "If you have high blood pressure or arrhythmias, or have had a heart attack or stroke, and when."
+        ]
+       },
+       {
+        "t": "blk",
+        "k": "o",
+        "h": "What to watch out for",
+        "ul": [
+         "Take your blood pressure and heart medicines as usual, including on the day of your appointment.",
+         "If an antibiotic is needed before treatment, we will tell you, consulting your cardiologist if necessary. Do not take it on your own initiative.",
+         "We choose the type and amount of anaesthetic best suited to you."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "slug": "difese-immunitarie",
+    "icon": "shield",
+    "title": "Weakened immune system",
+    "sub": "Chemotherapy, radiotherapy, cortisone, biologics",
+    "parts": [
+     {
+      "t": "drugs",
+      "p": "For example: **chemotherapy**, **radiotherapy** to the head or neck, **cortisone** taken for a long time, **immunosuppressant** or **biologic** medicines (after a transplant, for rheumatoid arthritis, psoriasis, bowel diseases)."
+     },
+     {
+      "t": "card",
+      "parts": [
+       {
+        "t": "blk",
+        "k": "r",
+        "h": "Why it matters",
+        "p": "When your defences are low, even a small mouth infection can become more serious, and wounds heal more slowly. After radiotherapy to the head or neck, the jaw bone becomes more delicate."
+       },
+       {
+        "t": "blk",
+        "k": "s",
+        "h": "What to tell us",
+        "ul": [
+         "Which treatments you are having or have had, and when.",
+         "If you are due to start chemotherapy, radiotherapy or a biologic treatment: a visit beforehand makes it possible to solve any problems in advance."
+        ]
+       },
+       {
+        "t": "blk",
+        "k": "o",
+        "h": "What to watch out for",
+        "ul": [
+         "We plan your treatment at the most suitable times, together with your doctor or oncologist if needed.",
+         "Take great care with oral hygiene and tell us about mouth ulcers, sores or bleeding gums."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "slug": "allergie-gravidanza",
+    "icon": "info",
+    "title": "Allergies, pregnancy and more",
+    "sub": "Supplements, liver, kidneys",
+    "parts": [
+     {
+      "t": "card",
+      "parts": [
+       {
+        "t": "blk",
+        "k": "s",
+        "h": "Always tell us",
+        "ul": [
+         "**Allergies** to medicines (antibiotics, painkillers, anaesthetics), latex or metals.",
+         "**Pregnancy** or breastfeeding, even if only suspected: treatment can be done, choosing the safest timing, medicines and tests.",
+         "**Supplements and natural products**: some, such as ginkgo, high-dose omega-3 or garlic capsules, can increase bleeding.",
+         "**Liver** or **kidney** disease, asthma, epilepsy: they change the choice of medicines."
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,1876 @@
+{
+ "lang": "it",
+ "ui": {
+  "motto": "Il tuo sorriso è il miglior biglietto da visita",
+  "nav_home": "Home",
+  "nav_sections": "Sezioni",
+  "nav_settings": "Impostazioni",
+  "back": "Indietro",
+  "sections_title": "Sezioni",
+  "sections_sub": "Tutto quello che ti serve, in un solo posto",
+  "card_howto_title": "Come raggiungere lo studio",
+  "card_howto_sub": "Indicazioni, mappa e mezzi di trasporto",
+  "card_after_title": "Suggerimenti post-intervento",
+  "card_after_sub": "Tutte le informazioni per una corretta guarigione",
+  "card_pills_title": "Pillole di odontoiatria",
+  "card_pills_sub": "Approfondimenti scientifici sul mondo odontoiatrico",
+  "call": "Chiama lo studio",
+  "offline": "Sei offline: i contenuti restano consultabili.",
+  "install_title": "Aggiungi l'app alla schermata Home",
+  "install_btn": "Aggiungi alla schermata Home",
+  "install_close": "Chiudi",
+  "read_time": "Lettura: {n} min",
+  "footer_call": "Per qualsiasi dubbio chiama lo studio",
+  "contact_btn": "Contattaci",
+  "install_sub": "Così la ritrovi tra le tue app, con il logo dello studio, e la apri con un tocco.",
+  "install_ok": "Ho capito",
+  "install_later": "Più tardi",
+  "install_settings": "Aggiungi alla schermata Home",
+  "install_done": "L'app è già sulla tua schermata Home",
+  "install_hint_bottom": "Il menu è qui sotto",
+  "install_hint_top": "Il menu è qui in alto",
+  "install_steps": {
+   "ios26": [
+    "Tocca i tre puntini {dots} in basso a destra",
+    "Tocca {share} <b>Condividi</b>",
+    "Scorri e scegli {plus} <b>«Aggiungi alla schermata Home»</b>",
+    "Conferma con <b>«Aggiungi»</b> in alto a destra"
+   ],
+   "ios": [
+    "Tocca l'icona {share} <b>Condividi</b> nella barra in basso",
+    "Scorri e scegli {plus} <b>«Aggiungi alla schermata Home»</b>",
+    "Conferma con <b>«Aggiungi»</b> in alto a destra"
+   ],
+   "iosother": [
+    "Tocca l'icona {share} <b>Condividi</b> accanto alla barra degli indirizzi",
+    "Scegli {plus} <b>«Aggiungi alla schermata Home»</b>",
+    "Conferma con <b>«Aggiungi»</b>"
+   ],
+   "android": [
+    "Tocca i tre puntini {vdots} in alto a destra",
+    "Scegli {plus} <b>«Aggiungi a schermata Home»</b> oppure <b>«Installa app»</b> (se non lo vedi, cercalo dentro <b>«Condividi»</b>)",
+    "Conferma con <b>«Installa»</b> o <b>«Aggiungi»</b>"
+   ],
+   "desktop": [
+    "Apri questo indirizzo dal browser del telefono",
+    "Segui le indicazioni che compaiono all'avvio"
+   ]
+  },
+  "staff_title": "Lo staff dello studio",
+  "staff_sub": "Le persone che ti accoglieranno in studio",
+  "review_btn": "Lascia una recensione",
+  "review_sub": "Ci fa piacere sapere se ti sei trovato bene da noi!",
+  "card_meds_title": "Farmaci e cure dentali",
+  "card_meds_sub": "Cosa sapere e cosa dirci prima delle cure",
+  "phone_word": "Telefono",
+  "swipe": "Scorri per vedere tutti",
+  "card_staff_sub": "Le persone che ti accoglieranno in studio"
+ },
+ "studio": {
+  "name": "Dental Medicine Firenze",
+  "address": "Viale Spartaco Lavagnini 47",
+  "city": "50129 Firenze (FI)",
+  "phone_label": "055 483706",
+  "phone_href": "tel:055483706",
+  "review_url": "https://search.google.com/local/writereview?placeid=ChIJr596-x1UKhMR-zmVd64HQ1Q"
+ },
+ "howto": {
+  "title": "Come arrivare",
+  "sub": "Indicazioni, mappa e mezzi di trasporto",
+  "address_label": "Indirizzo",
+  "phone_label": "Telefono",
+  "open_maps": "Apri nel navigatore",
+  "open_google": "Google Maps",
+  "open_apple": "Apple Maps",
+  "map_offline": "La mappa richiede la connessione a internet. Indirizzo: Viale Spartaco Lavagnini 47, Firenze.",
+  "tabs": {
+   "car": "Auto",
+   "train": "Treno",
+   "tram": "Tranvia",
+   "walk": "A piedi"
+  },
+  "car": {
+   "title": "In auto",
+   "text": [
+    "Lo studio si trova in Viale Spartaco Lavagnini 47, a Firenze, in zona Fortezza. La zona è servita dalle principali arterie cittadine ed è raggiungibile facilmente sia dal centro sia dai viali di circonvallazione.",
+    "Ti consigliamo di parcheggiare al **Garage Indipendenza**, convenzionato con lo studio, e di raggiungerci a piedi in circa 3 minuti."
+   ]
+  },
+  "train": {
+   "title": "In treno",
+   "intro": "Dalla Stazione di Firenze Santa Maria Novella puoi raggiungere lo studio:",
+   "list": [
+    "**a piedi:** circa 750 metri (10 minuti), passando per Piazza Adua e Via Cennini;",
+    "**in tram:** prendi la T2 da Valfonda e scendi dopo 2 fermate alla fermata Lavagnini Fortezza, davanti allo studio."
+   ],
+   "outro": "Dalla Stazione di Firenze Rifredi è possibile arrivare con i mezzi pubblici urbani; ti consigliamo di verificare il percorso aggiornato in tempo reale."
+  },
+  "tram": {
+   "title": "In tram",
+   "intro": "Lo studio è servito dalla rete tranviaria di Firenze. Le fermate più comode sono:",
+   "col_stop": "Fermata",
+   "col_line": "Linea",
+   "col_walk": "A piedi",
+   "stops": [
+    {
+     "name": "Lavagnini Fortezza",
+     "note": "davanti allo studio",
+     "lines": [
+      "T2"
+     ],
+     "walk": "50 m · 1 min"
+    },
+    {
+     "name": "Strozzi – Fallaci",
+     "lines": [
+      "T1"
+     ],
+     "walk": "300 m · 4 min"
+    },
+    {
+     "name": "Fortezza",
+     "lines": [
+      "T1",
+      "T2"
+     ],
+     "walk": "400 m · 5 min"
+    },
+    {
+     "name": "Lavagnini Poliziano",
+     "lines": [
+      "T2"
+     ],
+     "walk": "400 m · 5 min"
+    }
+   ],
+   "lines": "**T1** Villa Costanza ↔ Careggi · **T2** Peretola Aeroporto ↔ San Marco.",
+   "outro": "La fermata **Lavagnini Fortezza (T2)** è la più comoda: si trova davanti allo studio. Dall'aeroporto: T2 fino a Lavagnini Fortezza."
+  },
+  "walk": {
+   "title": "A piedi",
+   "intro": "Lo studio si trova in una posizione comoda da raggiungere a piedi.",
+   "list": [
+    "**Dalla Stazione S.M. Novella:** circa 750 m (10 minuti), passando per Piazza Adua e Via Cennini.",
+    "La zona è ben collegata e ricca di negozi e servizi; il percorso è pianeggiante e adatto a tutti."
+   ]
+  },
+  "parking": {
+   "badge": "Convenzione",
+   "title": "Parcheggi in convenzione",
+   "garage": "Garage Indipendenza",
+   "garage_addr": "Via Enrico Poggi 12/r",
+   "garage_dist": "a soli 200 m dallo studio · circa 3 minuti a piedi",
+   "rates_label": "Tariffe riservate ai pazienti dello studio",
+   "rates": [
+    {
+     "label": "Auto piccole",
+     "value": "6 €",
+     "unit": "/ ora"
+    },
+    {
+     "label": "Auto medie",
+     "value": "7 €",
+     "unit": "/ ora"
+    },
+    {
+     "label": "SUV e van",
+     "value": "8 €",
+     "unit": "/ ora"
+    }
+   ],
+   "how": "Per usufruire della tariffa convenzionata, comunica alla cassa di essere un paziente dello studio Dental Medicine Firenze.",
+   "nav": "Portami al garage"
+  },
+  "other_parking": {
+   "title": "Altri parcheggi",
+   "sub": "Non convenzionati · distanze a piedi indicative",
+   "items": [
+    {
+     "code": "P1",
+     "name": "Piazza Indipendenza",
+     "note": "sosta su strada a pagamento",
+     "walk": "150 m · 2 min"
+    },
+    {
+     "code": "P2",
+     "name": "Mercato Centrale",
+     "note": "Piazza del Mercato Centrale · interrato",
+     "walk": "650 m · 8 min"
+    },
+    {
+     "code": "P3",
+     "name": "Fortezza Fiera",
+     "note": "Piazzale Caduti nei Lager · interrato",
+     "walk": "700 m · 9 min"
+    },
+    {
+     "code": "P4",
+     "name": "Stazione S.M. Novella",
+     "note": "Piazza della Stazione · poi T2 da Valfonda",
+     "walk": "750 m · 10 min"
+    },
+    {
+     "code": "P5",
+     "name": "Parterre",
+     "note": "Piazza della Libertà · poi T2 da Libertà Parterre",
+     "walk": "1,1 km · 14 min"
+    }
+   ]
+  }
+ },
+ "aftercare": {
+  "title": "Post-intervento",
+  "sub": "Tutte le informazioni per una corretta guarigione",
+  "disclaimer": "Queste indicazioni sono di carattere generale e non sostituiscono le istruzioni del tuo dentista. In caso di dubbi, dolore intenso o problemi, contatta subito lo studio: 055 483706.",
+  "item_sub": "Indicazioni e dieta per i giorni successivi",
+  "h_done": "Cosa è stato fatto",
+  "h_first": "Cosa fare nelle prime ore",
+  "h_diet": "Dieta giorno per giorno",
+  "h_yes": "Cibi consigliati",
+  "h_no": "Cibi da evitare",
+  "h_alarm": "Contatta subito lo studio se…",
+  "h_hygiene": "Igiene e precauzioni",
+  "items": [
+   {
+    "slug": "estrazione",
+    "icon": "tooth-out",
+    "title": "Estrazione dentale",
+    "done": "È stato rimosso un dente. È normale avvertire un leggero fastidio nella zona per alcuni giorni. La guarigione avviene in genere in 1-2 settimane.",
+    "first": [
+     "Tieni la garza in posizione per il tempo indicato dal tuo odontoiatra, mordendola delicatamente.",
+     "Non sciacquare la bocca nelle prime 24 ore.",
+     "Non fumare.",
+     "Applica ghiaccio esterno sulla guancia (20 min sì / 20 min no) per ridurre il gonfiore."
+    ],
+    "diet": [
+     [
+      "Giorno 1",
+      "Solo cibi freddi o a temperatura ambiente, liquidi/frullati. Es.: yogurt, frullati, gelato, budini, passati di verdura freddi."
+     ],
+     [
+      "Giorni 2-3",
+      "Cibi tiepidi, morbidi, senza masticare dalla parte operata. Es.: purè, minestre tiepide, ricotta, uova strapazzate, pesce morbido."
+     ],
+     [
+      "Giorni 4-7",
+      "Si può tornare gradualmente a cibi più consistenti, masticando dall'altro lato. Es.: pasta cotta bene, riso, carne tenera, verdure cotte."
+     ],
+     [
+      "Dalla 2ª settimana",
+      "Dieta normale, evitando per qualche giorno cibi molto duri o croccanti nella zona."
+     ]
+    ],
+    "yes": [
+     "yogurt",
+     "frullati",
+     "gelato",
+     "budini",
+     "purè",
+     "minestre tiepide",
+     "uova",
+     "pesce",
+     "ricotta",
+     "banane"
+    ],
+    "no": [
+     "cibi caldi (minestre bollenti, tè caldo)",
+     "cibi duri/croccanti (pane croccante, grissini, nocciole, patatine)",
+     "cibi piccanti",
+     "alcol",
+     "fumo",
+     "bibite gassate e cannucce nelle prime 24-48 ore (rischio di rimuovere il coagulo)"
+    ],
+    "alarm": [
+     "dolore intenso e pulsante che aumenta dopo il 3° giorno",
+     "sanguinamento che non si ferma",
+     "febbre",
+     "gonfiore importante",
+     "cattivo sapore/odore persistente"
+    ],
+    "hygiene": [
+     "Dal giorno dopo, sciacqui delicati con acqua tiepida e bicarbonato o collutorio prescritto.",
+     "Spazzola con delicatezza evitando la zona operata per i primi giorni."
+    ]
+   },
+   {
+    "slug": "denti-del-giudizio",
+    "icon": "tooth-out",
+    "title": "Estrazione denti del giudizio",
+    "done": "È stato rimosso uno o più denti del giudizio (terzi molari), un intervento di chirurgia orale. È normale gonfiore e fastidio per 3-5 giorni.",
+    "first": [
+     "Tieni la garza in posizione per il tempo indicato dal tuo odontoiatra, mordendola delicatamente.",
+     "Ghiaccio sulla guancia subito e per le prime 24-48 ore (20 min sì / 20 min no).",
+     "Riposo, evita sforzi.",
+     "Dormi con la testa leggermente sollevata."
+    ],
+    "diet": [
+     [
+      "Giorno 1",
+      "Solo cibi freddi e liquidi/frullati (yogurt, frullati, gelato, budini). Niente masticazione."
+     ],
+     [
+      "Giorni 2-3",
+      "Cibi tiepidi e morbidi, senza masticare nella zona. Purè, minestre tiepide, ricotta, uova, pesce morbido, passati."
+     ],
+     [
+      "Giorni 4-7",
+      "Cibi morbidi più consistenti, masticando dall'altro lato: pasta ben cotta, riso, carne tenera, verdure cotte."
+     ],
+     [
+      "Dalla 2ª settimana",
+      "Graduale ritorno alla normalità evitando cibi duri/croccanti."
+     ]
+    ],
+    "yes": [
+     "yogurt",
+     "frullati",
+     "gelato",
+     "budini",
+     "purè",
+     "minestre tiepide",
+     "uova",
+     "pesce",
+     "ricotta",
+     "banane",
+     "frutta morbida"
+    ],
+    "no": [
+     "cibi caldi",
+     "cibi duri/croccanti",
+     "cibi piccanti",
+     "alcol",
+     "fumo",
+     "bibite gassate",
+     "cannucce (per almeno 3-4 giorni)",
+     "cibi che richiedono grande apertura della bocca (panini grandi, bistecche)"
+    ],
+    "alarm": [
+     "dolore che aumenta dopo il 3°-4° giorno",
+     "difficoltà ad aprire la bocca che peggiora",
+     "febbre",
+     "gonfiore in aumento",
+     "pus o cattivo sapore persistente",
+     "sanguinamento continuo"
+    ],
+    "hygiene": [
+     "Dal giorno dopo, sciacqui delicati.",
+     "Spazzola con delicatezza evitando la zona; non usare la cannuccia del collutorio.",
+     "Segui la terapia prescritta."
+    ]
+   },
+   {
+    "slug": "implantologia",
+    "icon": "implant",
+    "title": "Implantologia",
+    "done": "È stato inserito uno o più impianti in titanio nell'osso mascellare/mandibolare, per sostituire denti mancanti. L'impianto si integra con l'osso in un periodo di 2-4 mesi (osteointegrazione).",
+    "first": [
+     "Ghiaccio esterno (20 min sì / 20 min no) per ridurre il gonfiore.",
+     "Evita di toccare la zona con dita o lingua.",
+     "Segui la terapia prescritta (antidolorifici, eventuali antibiotici) anche se non c'è dolore."
+    ],
+    "diet": [
+     [
+      "Giorno 1",
+      "Cibi freddi/tiepidi, liquidi e frullati. Niente masticazione sulla zona."
+     ],
+     [
+      "Giorni 2-3",
+      "Cibi morbidi tiepidi (purea di verdura, minestre tiepide, ricotta, uova, yogurt, frullati). Mastica sempre dall'altro lato."
+     ],
+     [
+      "Giorni 4-7",
+      "Morbidi più sostanziosi (pasta cotta bene, riso, pesce, carne tenera tritata, verdure cotte)."
+     ],
+     [
+      "Dalla 2ª settimana",
+      "Dieta progressivamente normale, evitando per tutto il periodo di guarigione cibi duri, croccanti, appiccicosi e gomme da masticare nella zona dell'impianto."
+     ]
+    ],
+    "yes": [
+     "frullati",
+     "yogurt",
+     "passati di verdura",
+     "minestre tiepide",
+     "ricotta",
+     "uova",
+     "pesce",
+     "carne tenera tritata",
+     "purè",
+     "frutta morbida",
+     "formaggi morbidi"
+    ],
+    "no": [
+     "cibi duri/croccanti (frutta secca, pane croccante, patatine)",
+     "cibi appiccicosi (caramelle, gomme)",
+     "cibi molto caldi",
+     "cibi piccanti",
+     "alcol",
+     "fumo (danneggia la guarigione e l'integrazione dell'impianto)",
+     "semi piccoli che possono finire nella ferita"
+    ],
+    "alarm": [
+     "dolore crescente",
+     "gonfiore importante",
+     "mobilità dell'impianto",
+     "pus",
+     "febbre",
+     "sanguinamento"
+    ],
+    "hygiene": [
+     "Spazzola con delicatezza; usa scovolino/ciuffo solo se indicato.",
+     "Esegui gli sciacqui prescritti.",
+     "Non fumare: è fondamentale per l'osteointegrazione."
+    ]
+   },
+   {
+    "slug": "apicectomia",
+    "icon": "root",
+    "title": "Apicectomia",
+    "done": "È stata rimossa la parte terminale (apice) della radice di un dente e il tessuto infetto attorno, per risolvere un'infezione che non guariva con la sola devitalizzazione. Spesso il dente viene anche riotturato dall'apice.",
+    "first": [
+     "Tieni la garza in posizione per il tempo indicato dal tuo odontoiatra, mordendola delicatamente.",
+     "Ghiaccio esterno (20 min sì / 20 min no).",
+     "Riposo, evita sforzi e piegamenti.",
+     "Segui la terapia prescritta."
+    ],
+    "diet": [
+     [
+      "Giorno 1",
+      "Cibi freddi/tiepidi, liquidi o frullati, senza masticare nella zona."
+     ],
+     [
+      "Giorni 2-3",
+      "Cibi morbidi tiepidi (purè, minestre tiepide, ricotta, uova, pesce morbido)."
+     ],
+     [
+      "Giorni 4-7",
+      "Cibi morbidi più consistenti masticando dall'altro lato."
+     ],
+     [
+      "Dalla 2ª settimana",
+      "Graduale ritorno alla normalità, evitando cibi duri sulla zona per qualche giorno."
+     ]
+    ],
+    "yes": [
+     "yogurt",
+     "frullati",
+     "gelato",
+     "budini",
+     "purè",
+     "minestre tiepide",
+     "ricotta",
+     "uova",
+     "pesce",
+     "banane",
+     "frutta morbida"
+    ],
+    "no": [
+     "cibi caldi",
+     "cibi duri/croccanti",
+     "cibi piccanti",
+     "alcol",
+     "fumo",
+     "bibite gassate",
+     "cannucce (per 3-4 giorni)"
+    ],
+    "alarm": [
+     "dolore crescente dopo 3-4 giorni",
+     "gonfiore in aumento",
+     "febbre",
+     "pus",
+     "sanguinamento continuo",
+     "mobilità del dente"
+    ],
+    "hygiene": [
+     "Sciacqui delicati dal giorno dopo.",
+     "Spazzola con delicatezza evitando la zona.",
+     "Segui la terapia prescritta."
+    ]
+   },
+   {
+    "slug": "chirurgia",
+    "icon": "gum",
+    "title": "Chirurgia orale e parodontale",
+    "done": "È stato eseguito un intervento chirurgico sulla gengiva e/o sull'osso (es. curettage, lembo, innesto gengivale, rimozione di cisti). I tempi di guarigione variano da qualche giorno a qualche settimana.",
+    "first": [
+     "Tieni la garza in posizione per il tempo indicato dal tuo odontoiatra, mordendola delicatamente.",
+     "Ghiaccio esterno (20 min sì / 20 min no).",
+     "Riposo, evita sforzi.",
+     "Segui la terapia prescritta.",
+     "Evita di lavarti i denti nella zona operata."
+    ],
+    "diet": [
+     [
+      "Giorno 1",
+      "Cibi freddi/tiepidi, liquidi o frullati, senza masticare nella zona."
+     ],
+     [
+      "Giorni 2-3",
+      "Cibi morbidi tiepidi, nessuna masticazione sulla zona."
+     ],
+     [
+      "Giorni 4-7",
+      "Cibi morbidi più consistenti, masticando dall'altro lato."
+     ],
+     [
+      "Dalla 2ª settimana",
+      "Ritorno graduale alla normalità, evitando cibi duri o irritanti."
+     ]
+    ],
+    "yes": [
+     "yogurt",
+     "frullati",
+     "purè",
+     "minestre tiepide",
+     "ricotta",
+     "uova",
+     "pesce",
+     "frutta morbida",
+     "verdure cotte"
+    ],
+    "no": [
+     "cibi caldi",
+     "cibi duri/croccanti",
+     "cibi piccanti",
+     "agrumi e cibi acidi (possono irritare)",
+     "alcol",
+     "fumo",
+     "bibite gassate",
+     "cannucce"
+    ],
+    "alarm": [
+     "dolore crescente",
+     "gonfiore in aumento",
+     "febbre",
+     "pus",
+     "sanguinamento continuo",
+     "gengiva che si stacca"
+    ],
+    "hygiene": [
+     "Segui scrupolosamente le indicazioni dello studio (spazzolino morbido, collutorio prescritto, eventuali risciacqui con clorexidina).",
+     "Non spazzolare la zona operata finché non indicato."
+    ]
+   },
+   {
+    "slug": "devitalizzazione",
+    "icon": "root",
+    "title": "Devitalizzazione",
+    "done": "È stata rimossa la polpa (nervo) del dente, che era infiammata o infetta, e il canale è stato pulito e otturato. Il dente resta in bocca ma non è più «vivo». Spesso è necessaria una corona per proteggerlo.",
+    "first": [
+     "Il dente può essere dolente alla pressione per 2-3 giorni: è normale.",
+     "Evita di masticarci sopra.",
+     "Prendi gli antidolorifici prescritti se serve."
+    ],
+    "diet": [
+     [
+      "Giorno 1",
+      "Evita di masticare su quel dente; preferisci cibi morbidi/tiepidi, masticando dall'altro lato."
+     ],
+     [
+      "Giorni 2-3",
+      "Cibi morbidi, sempre masticando dall'altro lato."
+     ],
+     [
+      "Giorni 4-7",
+      "Si può tornare gradualmente alla normalità; evita comunque cibi molto duri su quel dente fino alla corona definitiva."
+     ],
+     [
+      "Fino alla corona",
+      "Niente cibi duri/croccanti sul dente trattato (rischio di frattura): il dente devitalizzato è più fragile."
+     ]
+    ],
+    "yes": [
+     "cibi morbidi",
+     "cibi tiepidi",
+     "masticare dall'altro lato"
+    ],
+    "no": [
+     "cibi molto duri/croccanti sul dente trattato (frutta secca, ghiaccio, ossa, caramelle dure)",
+     "cibi molto caldi se c'è ancora sensibilità",
+     "alcol e fumo"
+    ],
+    "alarm": [
+     "dolore forte e pulsante che non passa con l'antidolorifico",
+     "gonfiore della guancia",
+     "febbre",
+     "dolore che aumenta nei giorni successivi"
+    ],
+    "hygiene": [
+     "Spazzola normalmente ma con delicatezza sul dente trattato.",
+     "Usa il filo interdentale con attenzione."
+    ]
+   },
+   {
+    "slug": "otturazione",
+    "icon": "tooth",
+    "title": "Otturazione",
+    "done": "È stata rimossa la carie e il dente è stato ricostruito con un'otturazione (composito). Se è stata usata l'anestesia, la sensazione di «labbro addormentato» passa in poche ore.",
+    "first": [
+     "Attenzione a non morderti labbra e guance finché l'anestesia non è passata.",
+     "Evita cibi e bevande molto caldi finché la zona è insensibile."
+    ],
+    "diet": [
+     [
+      "Giorno 1",
+      "Evita di masticare nella zona finché l'anestesia non è svanita; cibi tiepidi/morbidi."
+     ],
+     [
+      "Giorni 2-3",
+      "Dieta normale, ma con attenzione alla zona se c'è sensibilità."
+     ],
+     [
+      "Dal 4° giorno",
+      "Dieta normale."
+     ]
+    ],
+    "yes": [
+     "cibi a temperatura ambiente o tiepidi",
+     "cibi morbidi"
+    ],
+    "no": [
+     "cibi molto caldi finché c'è anestesia o sensibilità",
+     "cibi molto freddi se il dente è sensibile"
+    ],
+    "alarm": [
+     "dolore che aumenta nei giorni successivi",
+     "sensibilità che non passa dopo 1-2 settimane",
+     "otturazione che si stacca"
+    ],
+    "hygiene": [
+     "Spazzola normalmente.",
+     "Se la sensibilità persiste, usa un dentifricio per denti sensibili."
+    ]
+   },
+   {
+    "slug": "corona",
+    "icon": "crown",
+    "title": "Corona e protesi fissa",
+    "done": "È stata posizionata (o provvisoriamente cementata) una corona, un ponte o una protesi fissa per ricostruire/proteggere un dente. Se è una corona provvisoria, è normale una lieve sensibilità.",
+    "first": [
+     "Attenzione ai cibi appiccicosi (caramelle, gomme) che possono staccare la corona provvisoria."
+    ],
+    "diet": [
+     [
+      "Giorno 1",
+      "Cibi morbidi/tiepidi, evita di masticare sulla corona appena posata."
+     ],
+     [
+      "Giorni 2-3",
+      "Cibi morbidi; nessun cibo appiccicoso o durissimo."
+     ],
+     [
+      "Giorni 4-7",
+      "Dieta quasi normale, con attenzione ai cibi che possono «tirare» la corona provvisoria."
+     ],
+     [
+      "Con corona provvisoria",
+      "Evita cibi duri, croccanti e appiccicosi fino alla cementazione definitiva."
+     ]
+    ],
+    "yes": [
+     "cibi morbidi",
+     "cibi tiepidi",
+     "cibi tagliati a pezzetti"
+    ],
+    "no": [
+     "cibi appiccicosi (caramelle, gomme, datteri)",
+     "cibi molto duri (frutta secca, ghiaccio, pane croccante)",
+     "mordere direttamente oggetti (penne, unghie)"
+    ],
+    "alarm": [
+     "corona che si stacca o si muove (non tentare di riattaccarla da solo)",
+     "dolore crescente",
+     "gonfiore gengivale",
+     "cattivo sapore persistente sotto la corona",
+     "febbre"
+    ],
+    "hygiene": [
+     "Spazzola normalmente.",
+     "Usa scovolino o filo interdentale attorno alla corona."
+    ]
+   },
+   {
+    "slug": "protesi-rimovibile",
+    "icon": "denture",
+    "title": "Protesi rimovibile (dentiera)",
+    "done": "È stata consegnata o adattata una protesi rimovibile (dentiera). È normale un periodo di adattamento di alcune settimane, con possibili punti di pressione.",
+    "first": [
+     "Indossala secondo le indicazioni dello studio.",
+     "Se compaiono punti di dolore, non modificare la protesi da solo: contatta lo studio per un controllo e un ritocco."
+    ],
+    "diet": [
+     [
+      "Giorni 1-3",
+      "Inizia con cibi morbidi e tagliati a pezzetti. Mastica su entrambi i lati per stabilità."
+     ],
+     [
+      "Giorni 4-7",
+      "Introduci gradualmente cibi un po' più consistenti, sempre tagliati piccoli."
+     ],
+     [
+      "Settimane successive",
+      "Amplia la dieta gradualmente."
+     ]
+    ],
+    "yes": [
+     "cibi morbidi tagliati a pezzetti",
+     "minestre",
+     "purè",
+     "uova",
+     "pesce",
+     "verdure cotte",
+     "frutta morbida"
+    ],
+    "no": [
+     "cibi duri e appiccicosi (caramelle, gomme, pane molto duro)",
+     "cibi che si sbriciolano facilmente",
+     "cibi molto caldi"
+    ],
+    "alarm": [
+     "dolore persistente o piaghe",
+     "protesi che non aderisce bene",
+     "difficoltà a mangiare o parlare per settimane",
+     "nausea"
+    ],
+    "hygiene": [
+     "Pulisci la protesi ogni giorno (spazzolino dedicato, niente dentifricio abrasivo).",
+     "Pulisci anche bocca e gengive.",
+     "Togli la protesi di notte se indicato."
+    ]
+   },
+   {
+    "slug": "igiene",
+    "icon": "sparkle",
+    "title": "Igiene orale professionale",
+    "done": "È stata eseguita la pulizia professionale con rimozione di placca e tartaro, e lucidatura. Le gengive possono essere lievemente arrossate o sensibili per 1-2 giorni.",
+    "first": [
+     "Evita cibi e bevande che macchiano (caffè, tè, vino rosso, mirtilli, curry) e il fumo per le prime 24-48 ore."
+    ],
+    "diet": [
+     [
+      "Giorni 1-2",
+      "Cibi tiepidi e poco macchianti."
+     ],
+     [
+      "Dal 3° giorno",
+      "Dieta normale."
+     ]
+    ],
+    "yes": [
+     "acqua",
+     "latticini",
+     "carne bianca",
+     "pesce",
+     "riso",
+     "pasta",
+     "verdure chiare",
+     "frutta chiara"
+    ],
+    "no": [
+     "caffè",
+     "tè",
+     "vino rosso",
+     "bevande colorate",
+     "mirtilli e frutti di bosco",
+     "curry",
+     "barbabietola",
+     "cioccolato (per 24-48 ore)",
+     "fumo"
+    ],
+    "alarm": [
+     "sanguinamento gengivale che persiste oltre pochi giorni",
+     "dolore crescente",
+     "mobilità dei denti"
+    ],
+    "hygiene": [
+     "Spazzola con spazzolino morbido.",
+     "Usa il filo interdentale ogni giorno.",
+     "Eventuale collutorio prescritto."
+    ]
+   },
+   {
+    "slug": "sbiancamento",
+    "icon": "sun",
+    "title": "Sbiancamento dentale",
+    "done": "È stato eseguito uno sbiancamento dei denti (in studio o con mascherine domiciliari). È normale una sensibilità temporanea al caldo/freddo per qualche giorno.",
+    "first": [
+     "Evita cibi e bevande che macchiano per almeno 48 ore."
+    ],
+    "diet": [
+     [
+      "Giorni 1-2",
+      "«Dieta bianca»: pasta, riso, pollo, pesce, patate, latte, yogurt, banane, mele sbucciate, pane bianco."
+     ],
+     [
+      "Giorni 3-7",
+      "Introduci gradualmente altri cibi poco macchianti; evita caffè, tè, vino e fumo se possibile."
+     ],
+     [
+      "Dalla 2ª settimana",
+      "Dieta normale."
+     ]
+    ],
+    "yes": [
+     "riso",
+     "pasta",
+     "pollo",
+     "pesce",
+     "patate",
+     "latte",
+     "yogurt",
+     "banane",
+     "mele sbucciate",
+     "formaggio bianco"
+    ],
+    "no": [
+     "caffè",
+     "tè",
+     "vino rosso",
+     "succhi colorati",
+     "mirtilli e frutti di bosco",
+     "curry",
+     "barbabietola",
+     "cioccolato",
+     "salsa di soia",
+     "pomodoro",
+     "fumo (per 48 ore minimo)"
+    ],
+    "alarm": [
+     "sensibilità intensa e persistente oltre una settimana",
+     "dolore spontaneo",
+     "gengive che sanguinano in modo anomalo"
+    ],
+    "hygiene": [
+     "Usa un dentifricio per denti sensibili se consigliato.",
+     "Non usare prodotti sbiancanti aggiuntivi senza indicazione del dentista."
+    ]
+   },
+   {
+    "slug": "sigillanti",
+    "icon": "child",
+    "title": "Sigillanti e trattamenti per i più piccoli",
+    "done": "È stato applicato un sigillante (una protezione) sui solchi dei molari per prevenire la carie, oppure è stato eseguito un trattamento sui denti da latte (otturazione, pulizia, fluoro).",
+    "first": [
+     "Il bambino/ragazzo può mangiare normalmente dopo l'eventuale anestesia.",
+     "Evita cibi appiccicosi e molto duri nelle ore successive."
+    ],
+    "diet": [
+     [
+      "Giorno 1",
+      "Cibi morbidi, tiepidi; se c'è anestesia, evita i cibi caldi."
+     ],
+     [
+      "Giorni 2-3",
+      "Dieta normale, evitando caramelle appiccicose e cibi duri."
+     ],
+     [
+      "Dal 4° giorno",
+      "Dieta normale."
+     ]
+    ],
+    "yes": [
+     "yogurt",
+     "frutta morbida",
+     "latte",
+     "pane morbido",
+     "pasta",
+     "riso",
+     "formaggi"
+    ],
+    "no": [
+     "caramelle appiccicose",
+     "gomme",
+     "pop corn",
+     "cibi duri (noci)",
+     "bibite zuccherate"
+    ],
+    "alarm": [
+     "dolore crescente",
+     "gonfiore",
+     "febbre",
+     "sigillante che sembra staccarsi"
+    ],
+    "hygiene": [
+     "Continua l'igiene quotidiana con spazzolino adatto all'età e dentifricio al fluoro."
+    ]
+   }
+  ]
+ },
+ "insights": {
+  "title": "Pillole di odontoiatria",
+  "sub": "Approfondimenti scientifici semplici per capire meglio la tua salute orale",
+  "disclaimer": "Le informazioni contenute in questa sezione hanno scopo divulgativo e non sostituiscono il parere del tuo dentista. Per qualsiasi dubbio sulla tua situazione specifica, prenota una visita o contatta lo studio al 055 483706.",
+  "h_takeaway": "Cosa significa per te",
+  "items": [
+   {
+    "slug": "parodontite",
+    "icon": "gum",
+    "title": "Parodontite",
+    "subtitle": "Cos'è, come si riconosce e quali sono le terapie",
+    "question": "Il mio dentista ha parlato di «parodontite»: cosa significa davvero?",
+    "blocks": [
+     {
+      "h": "Cos'è",
+      "p": "La parodontite (o «piorrea») è una malattia infiammatoria cronica che colpisce i tessuti che sostengono il dente: la gengiva, il legamento parodontale e l'osso alveolare. Inizia come gengivite (gengive gonfie e che sanguinano), ma mentre la gengivite è reversibile, **la parodontite danneggia in modo permanente le strutture di sostegno**. È causata principalmente dai batteri della placca, che formano una «tasca» tra gengiva e dente; con il tempo l'osso si ritira e i denti diventano mobili, fino a perdersi."
+     },
+     {
+      "h": "Perché è importante",
+      "p": "È molto diffusa (una delle malattie più comuni al mondo) e spesso **silenziosa**: si può avere parodontite senza dolore evidente. I segnali tipici sono gengive che sanguinano durante lo spazzolamento, alitosi persistente, gengive che si ritirano, denti che sembrano «allungarsi» o muoversi, spazi che aumentano tra i denti."
+     },
+     {
+      "h": "Cosa fa il dentista",
+      "p": "Misura le tasche con uno strumento (sondaggio parodontale), valuta la perdita di osso con radiografie e determina lo stadio e il grado della malattia."
+     },
+     {
+      "h": "Possibilità terapeutiche",
+      "ol": [
+       "**Igiene e terapia causale (non chirurgica):** rimozione di placca e tartaro sopra e sotto la gengiva, con strumenti a ultrasuoni e curette. È il primo passo, spesso risolutivo nelle forme lievi.",
+       "**Terapia chirurgica (chirurgia a lembo):** quando la malattia è avanzata, si solleva la gengiva per pulire in profondità e ridurre le tasche.",
+       "**Rigenerazione ossea:** nei casi selezionati si possono usare innesti ossei o membrane per ricostruire l'osso perduto.",
+       "**Innesti gengivali:** per ricoprire radici scoperte o ispessire la gengiva.",
+       "**Terapia di mantenimento:** dopo la cura, controlli periodici (ogni 3-6 mesi) sono essenziali; la parodontite è una malattia cronica e va tenuta sotto controllo.",
+       "**Fattori da gestire:** il fumo è il principale fattore di rischio (peggiora la malattia e riduce l'efficacia delle cure); anche diabete, stress e igiene orale insufficiente incidono."
+      ]
+     }
+    ],
+    "takeaway": "La parodontite non si «cura» una volta per tutte con un solo trattamento: si controlla con igiene quotidiana accurata, visite periodiche e, se fumi, smettendo di fumare. Prima si interviene, minore è il danno. Se le tue gengive sanguinano, non è «normale»: è un segnale da valutare."
+   },
+   {
+    "slug": "corona",
+    "icon": "crown",
+    "title": "La corona protesica",
+    "subtitle": "A cosa serve e come funziona",
+    "question": "Perché il dentista mi ha detto che serve una «corona»?",
+    "blocks": [
+     {
+      "h": "Cos'è",
+      "p": "Una corona protesica è una capsula che ricopre completamente il dente, riportandolo alla sua forma, dimensione e resistenza originali. È fatta su misura in laboratorio e può essere di ceramica, zirconia, metallo-ceramica o altri materiali. **Serve a proteggere un dente indebolito** e a ricostruirne la funzione (masticare) e l'estetica."
+     },
+     {
+      "h": "Quando serve",
+      "ul": [
+       "dopo un trattamento canalare (devitalizzazione): il dente devitalizzato è più fragile e rischia di fratturarsi;",
+       "quando il dente è molto consumato o fratturato;",
+       "per ricostruire un dente molto cariato con poca struttura sana;",
+       "come elemento di un ponte per sostituire un dente mancante;",
+       "sopra un impianto (si parla di «corona su impianto»);",
+       "per motivi estetici (forma, colore, rotazioni)."
+      ]
+     },
+     {
+      "h": "Come funziona il trattamento",
+      "p": "Il dentista riduce il dente della giusta quantità, prende un'impronta (tradizionale o digitale con scanner intraorale) e in laboratorio viene realizzata la corona. Nel frattempo si applica una **corona provvisoria**; nella visita successiva la corona definitiva viene cementata. Il colore viene scelto per armonizzarsi con gli altri denti."
+     },
+     {
+      "h": "Possibilità e alternative",
+      "ul": [
+       "**Corona in ceramica/zirconia:** massima estetica, ottima biocompatibilità.",
+       "**Corona metallo-ceramica:** molto resistente, estetica buona (il metallo può mostrare un bordo scuro con il tempo).",
+       "**Intarsi (overlay/onlay):** alternative meno invasive quando la parte sana è sufficiente.",
+       "**Corona provvisoria:** protegge il dente durante l'attesa."
+      ]
+     }
+    ],
+    "takeaway": "La corona non si limita a «coprire» il dente, ma lo protegge e ne ripristina la funzione: è spesso l'unico modo per salvare un dente molto compromesso. La durata dipende dall'igiene, dai carichi e dai controlli periodici: con cure adeguate una corona può durare molti anni. Evita di masticare cibi duri sulla corona provvisoria."
+   },
+   {
+    "slug": "implantologia",
+    "icon": "implant",
+    "title": "L'implantologia",
+    "subtitle": "Come si sostituisce un dente mancante",
+    "question": "Ho perso un dente: l'impianto è davvero la soluzione migliore?",
+    "blocks": [
+     {
+      "h": "Cos'è",
+      "p": "Un impianto dentale è una vite in titanio che viene inserita nell'osso mascellare o mandibolare, al posto della radice del dente mancante. Il titanio è biocompatibile: l'osso lo «accetta» e si salda ad esso in un processo chiamato **osteointegrazione** (dura in genere 2-4 mesi). Sopra l'impianto si applica poi una corona che sostituisce il dente visibile."
+     },
+     {
+      "h": "Quando serve",
+      "p": "Per sostituire uno, più o tutti i denti mancanti; come alternativa a un ponte (che richiede di limare i denti vicini); per stabilizzare una protesi rimovibile; dopo un trauma o un'estrazione."
+     },
+     {
+      "h": "Come funziona il trattamento",
+      "ol": [
+       "**Valutazione e pianificazione:** visita, radiografie (spesso TAC 3D) per valutare quantità e qualità dell'osso; in alcuni casi serve un innesto osseo prima dell'impianto.",
+       "**Inserimento dell'impianto:** intervento in anestesia locale, generalmente breve e poco invasivo; spesso si esce con un dente provvisorio.",
+       "**Osteointegrazione:** periodo di guarigione di 2-4 mesi in cui l'osso si salda all'impianto.",
+       "**Corona definitiva:** dopo la guarigione si applica la corona protesica definitiva."
+      ]
+     }
+    ],
+    "takeaway": "L'impianto è oggi considerato il trattamento di riferimento per la sostituzione di un dente singolo, perché non danneggia i denti vicini e restituisce masticazione ed estetica in modo stabile. Non fumare, mantieni una buona igiene e rispetta i controlli: sono i tre fattori che ne garantiscono la durata nel tempo, spesso di decenni."
+   },
+   {
+    "slug": "carie",
+    "icon": "tooth",
+    "title": "La carie",
+    "subtitle": "Come nasce e come si cura",
+    "question": "Come fa un dente a bucarsi e si può evitare?",
+    "blocks": [
+     {
+      "h": "Cos'è",
+      "p": "La carie è una malattia infettiva del dente causata da batteri che, nutrendosi di zuccheri, producono acidi in grado di sciogliere lo smalto. Se il processo non viene interrotto, l'acido penetra nei tessuti profondi (dentina, polpa) fino a raggiungere il nervo, causando dolore e infezioni."
+     },
+     {
+      "h": "I fattori",
+      "p": "Non solo zucchero! Anche igiene insufficiente, saliva (quantità e composizione), tempo di contatto degli zuccheri con i denti e fattori genetici/abitudini hanno un ruolo. Un ruolo chiave lo hanno **gli zuccheri nascosti e i frequenti spuntini**."
+     },
+     {
+      "h": "Come si riconosce",
+      "p": "Nelle fasi iniziali la carie è **silenziosa** (spesso visibile solo con le radiografie o con uno strumento che «sente» la consistenza dello smalto). Man mano che avanza: sensibilità al dolce, al freddo, al caldo, poi dolore e, nei casi gravi, ascesso."
+     },
+     {
+      "h": "Possibilità terapeutiche",
+      "ol": [
+       "**Prevenzione:** spazzolamento corretto (2 minuti, 2 volte al giorno), **filo interdentale o scovolino ogni giorno** (la carie nasce spesso tra un dente e l'altro, dove lo spazzolino non arriva), dentifricio al fluoro, meno zuccheri e spuntini, visite periodiche.",
+       "**Carie iniziale:** ancora reversibile con fluoro e sigillanti.",
+       "**Otturazione:** rimozione della parte cariata e ricostruzione con composito (materiale estetico).",
+       "**Devitalizzazione:** se la carie ha raggiunto il nervo.",
+       "**Corona:** se la struttura del dente è molto compromessa.",
+       "**Estrazione:** se il dente non è più recuperabile."
+      ]
+     }
+    ],
+    "takeaway": "La carie non «fa male» fin dall'inizio: quando senti dolore, spesso è già arrivata in profondità. Per questo le visite periodiche sono così importanti: una carie piccola si cura in modo semplice, una carie grande richiede interventi più complessi. Ridurre zuccheri e spuntini e usare ogni giorno il filo interdentale sono i gesti più efficaci che puoi fare."
+   },
+   {
+    "slug": "devitalizzazione",
+    "icon": "root",
+    "title": "Devitalizzazione",
+    "subtitle": "Quando un dente «muore» e cosa fare",
+    "question": "Cosa significa «devitalizzare» un dente? È sicuro?",
+    "blocks": [
+     {
+      "h": "Cos'è",
+      "p": "La devitalizzazione, o **terapia endodontica**, consiste nella rimozione della polpa (il «nervo») di un dente infiammato o infetto, nella pulizia e disinfezione dei canali e nella loro otturazione ermetica. Dopo il trattamento il dente non è più sensibile ma continua a svolgere la sua funzione."
+     },
+     {
+      "h": "Quando serve",
+      "p": "Quando la carie ha raggiunto la polpa, in caso di trauma che ha danneggiato il nervo, di ascesso o di dolore persistente."
+     },
+     {
+      "h": "Come funziona il trattamento",
+      "p": "Il dente viene anestetizzato, isolato con una diga e si rimuove la polpa infetta. I canali vengono puliti e disinfettati; possono servire più sedute. Alla fine i canali vengono otturati con un materiale sigillante. Spesso si applica una corona per proteggere il dente."
+     },
+     {
+      "h": "Possibilità e alternative",
+      "p": "Trattamento in una o più sedute; **ritrattamento endodontico** se una terapia precedente non è riuscita; **apicectomia** nei casi più complessi; estrazione se il dente non è recuperabile."
+     }
+    ],
+    "takeaway": "Un dente devitalizzato resta in bocca e funziona, a patto di essere protetto (spesso con una corona) e curato. Il mito «il dente devitalizzato è morto, tanto vale toglierlo» è falso: meglio conservare il proprio dente quando possibile. Attenzione: un dente devitalizzato non fa più male, quindi può nascondere problemi; servono controlli radiografici periodici."
+   },
+   {
+    "slug": "igiene-orale",
+    "icon": "brush",
+    "title": "Igiene orale quotidiana",
+    "subtitle": "Le regole per una bocca sana",
+    "question": "Sto davvero lavando i denti nel modo giusto?",
+    "blocks": [
+     {
+      "h": "Cos'è",
+      "p": "L'igiene orale è l'insieme delle pratiche quotidiane che rimuovono la placca batterica prima che diventi tartaro e causi carie o parodontite. È **il gesto di prevenzione più efficace ed economico** che esista in odontoiatria."
+     },
+     {
+      "h": "Le regole fondamentali",
+      "ol": [
+       "**Spazzola almeno 2 volte al giorno** (mattina e sera), per 2 minuti, con spazzolino a setole morbide e dentifricio al fluoro.",
+       "**Usa il filo interdentale o gli scovolini ogni giorno:** lo spazzolino non pulisce tra i denti, dove nasce gran parte delle carie e delle malattie gengivali.",
+       "**Tecnica corretta:** movimenti delicati e circolari, senza schiacciare; includi il bordo gengivale.",
+       "**Cambia lo spazzolino ogni 3-4 mesi** (o prima se le setole si aprono).",
+       "**Pulisci la lingua** (con un puliscilingua o lo spazzolino) per alito e placca.",
+       "**Controlli periodici** dal dentista (di norma ogni 6-12 mesi).",
+       "**Limita zuccheri e spuntini frequenti.**"
+      ]
+     },
+     {
+      "h": "Possibilità e approfondimenti",
+      "p": "Spazzolino elettrico (utile, ma la tecnica resta fondamentale); idropulsore (utile in aggiunta, non sostituisce il filo); collutori (da usare su indicazione, non come sostituto dello spazzolamento); sigillanti per i bambini."
+     }
+    ],
+    "takeaway": "Lavare bene i denti è la migliore assicurazione contro le cure odontoiatriche. Se ti sembra di avere l'alito cattivo, se le gengive sanguinano o non usi il filo, chiedi in studio una dimostrazione pratica della tecnica: due minuti ben spesi valgono molto più di una terapia."
+   },
+   {
+    "slug": "alimentazione",
+    "icon": "apple",
+    "title": "Alimentazione e denti",
+    "subtitle": "Cosa mangiamo e come influisce sui denti",
+    "question": "Il cibo che mangio può rovinare o proteggere i miei denti?",
+    "blocks": [
+     {
+      "h": "Cos'è",
+      "p": "L'alimentazione influisce sulla salute orale in due modi: da un lato fornisce i nutrienti necessari a denti e gengive; dall'altro, gli zuccheri e gli acidi di cibi e bevande favoriscono carie ed erosione."
+     },
+     {
+      "h": "Cosa danneggia i denti",
+      "ul": [
+       "zuccheri aggiunti e bevande zuccherate (bibite, succhi, energy drink);",
+       "**spuntini frequenti:** ogni assunzione di zucchero «alimenta» i batteri; il numero di volte conta più della quantità;",
+       "bevande acide (bibite, agrumi, aceto) che erodono lo smalto;",
+       "carboidrati raffinati e appiccicosi (patatine, dolci, caramelle) che restano tra i denti;",
+       "il fumo e l'alcol in eccesso."
+      ]
+     },
+     {
+      "h": "Cosa protegge i denti",
+      "p": "Acqua (soprattutto al posto delle bibite), latticini (calcio), frutta e verdura croccanti (stimolano la saliva), cereali integrali, pesce (omega-3), tè verde e una dieta equilibrata."
+     },
+     {
+      "h": "La saliva",
+      "p": "È un potente lubrificante naturale e ri-mineralizzante dello smalto. Masticare cibi consistenti, bere acqua e limitare gli spuntini aiuta la saliva a proteggere lo smalto tra un pasto e l'altro."
+     },
+     {
+      "h": "Consigli pratici",
+      "ol": [
+       "Riduci gli zuccheri «nascosti» (salse, sughi pronti, snack).",
+       "Limita le bevande gassate e bevi con la cannuccia quando possibile.",
+       "Non «spiluccare» continuamente: meglio pasti strutturati che molti spuntini.",
+       "Sciacqua con acqua dopo cibi acidi e aspetta prima di lavare i denti (lo smalto è momentaneamente ammorbidito).",
+       "Una gomma senza zucchero (con xilitolo) dopo i pasti può aiutare."
+      ]
+     }
+    ],
+    "takeaway": "Piccole scelte quotidiane incidono molto più di un singolo «strappo alla regola». Non serve rinunciare a tutto: basta limitare la frequenza degli zuccheri, preferire l'acqua e mantenere l'igiene. Chiedi in studio consigli personalizzati in base alla tua situazione."
+   },
+   {
+    "slug": "sbiancamento",
+    "icon": "sun",
+    "title": "Lo sbiancamento",
+    "subtitle": "Cosa funziona davvero e cosa evitare",
+    "question": "Posso schiarire i miei denti? E i rimedi «fai da te» funzionano?",
+    "blocks": [
+     {
+      "h": "Cos'è",
+      "p": "Lo sbiancamento dentale utilizza sostanze a base di perossido (di idrogeno o di carbammide) per schiarire il colore di smalto e dentina. Non è un trattamento «superficiale»: **agisce in profondità e va eseguito sotto controllo professionale**."
+     },
+     {
+      "h": "Tipi di sbiancamento",
+      "ol": [
+       "**In studio:** prodotti più concentrati, con protezione delle gengive; risultato rapido, di solito in una o poche sedute.",
+       "**Domiciliare con mascherine:** mascherine su misura realizzate dallo studio e gel forniti dal dentista; risultato graduale in 1-2 settimane.",
+       "**Combinato:** in studio + domiciliare, per risultati ottimali."
+      ]
+     },
+     {
+      "h": "Cosa NON funziona (e può danneggiare)",
+      "p": "Rimedi fai-da-te (bicarbonato, limone, aceto, carbone, dentifrici abrasivi) che consumano lo smalto e possono causare erosione e sensibilità permanente; prodotti comprati online senza controllo clinico."
+     },
+     {
+      "h": "Effetti collaterali",
+      "p": "Sensibilità temporanea al caldo/freddo (comune e transitoria), irritazione gengivale se il prodotto viene a contatto con le gengive."
+     }
+    ],
+    "takeaway": "Lo sbiancamento funziona se eseguito da un professionista e su denti sani: prima vanno valutati denti e gengive (non si sbiancano carie o parodontiti attive). Il risultato non è permanente: caffè, tè, vino e fumo possono ricolorare i denti. Un sorriso più bianco non vale un dente danneggiato."
+   },
+   {
+    "slug": "afte",
+    "icon": "gum",
+    "title": "Le afte",
+    "subtitle": "Cosa sono, perché vengono e come alleviarle",
+    "question": "Ho spesso delle piccole ferite dolorose in bocca: cosa sono?",
+    "blocks": [
+     {
+      "h": "Cos'è",
+      "p": "Le afte sono piccole ulcere rotonde o ovali, di colore bianco-giallastro con un bordo rosso, che compaiono sull'interno di guance e labbra, sulla lingua o sulle gengive. Sono **fastidiose e dolorose**, soprattutto quando si mangia o si parla, ma nella maggior parte dei casi sono **benigne** e guariscono da sole in **7-14 giorni**, senza lasciare cicatrici. **Non sono contagiose**: sono una cosa diversa dall'herpes labiale (la «febbre» sul labbro)."
+     },
+     {
+      "h": "Perché vengono",
+      "p": "Spesso non c'è una causa unica. Tra i fattori che le favoriscono ci sono:",
+      "ul": [
+       "piccoli traumi: un morso alla guancia, uno spazzolino troppo duro, un apparecchio o una protesi che sfrega;",
+       "stress e stanchezza;",
+       "variazioni ormonali, per esempio legate al ciclo;",
+       "alcuni cibi (agrumi, pomodoro, cibi molto piccanti o acidi, frutta secca);",
+       "carenze di ferro, vitamina B12 o acido folico;",
+       "in alcune persone, i dentifrici che contengono sodio laurilsolfato."
+      ]
+     },
+     {
+      "h": "Come alleviarle",
+      "ul": [
+       "**Gel o paste protettive** da farmacia, che coprono l'afta e riducono il dolore.",
+       "**Collutori delicati** senza alcol, su consiglio del dentista o del farmacista.",
+       "Evita, finché non guarisce, cibi piccanti, acidi, molto salati o croccanti.",
+       "Usa uno spazzolino a setole morbide e spazzola con delicatezza vicino all'afta.",
+       "In studio è disponibile anche il **trattamento laser**, che può ridurre il dolore e accelerare la guarigione."
+      ]
+     },
+     {
+      "h": "Quando farti vedere",
+      "ul": [
+       "se un'afta **non guarisce entro 2 settimane**;",
+       "se sono molto grandi, numerose o tornano molto spesso;",
+       "se compaiono insieme a febbre, stanchezza marcata, disturbi intestinali o lesioni in altre parti del corpo;",
+       "se la lesione **non fa male** ma non passa: anche in questo caso va controllata."
+      ]
+     }
+    ],
+    "takeaway": "Le afte sono molto comuni e quasi sempre innocue, ma una ferita in bocca che non guarisce entro due settimane va sempre fatta vedere al dentista. Se ti tornano spesso, parlane in studio: a volte basta cambiare dentifricio o correggere una piccola causa di sfregamento, altre volte è utile qualche esame del sangue."
+   },
+   {
+    "slug": "denti-da-latte",
+    "icon": "child",
+    "title": "I denti da latte",
+    "subtitle": "Perché sono importanti e come curarli",
+    "question": "Tanto cadono: vale davvero la pena curare i denti da latte?",
+    "blocks": [
+     {
+      "h": "Perché sono importanti",
+      "p": "I denti da latte sono 20 e spuntano di solito tra i 6 mesi e i 3 anni; cominciano a cadere verso i 6 anni e vengono sostituiti gradualmente fino ai 12 anni circa. Servono per **masticare bene**, per **imparare a parlare** e soprattutto per **tenere il posto** ai denti definitivi. Una carie non curata può far male, causare infezioni e danneggiare il dente definitivo che si sta formando sotto."
+     },
+     {
+      "h": "Come pulirli",
+      "ol": [
+       "**Dal primo dentino:** puliscilo due volte al giorno con uno spazzolino morbido adatto all'età.",
+       "**Dentifricio al fluoro in quantità piccolissima:** un chicco di riso fino ai 3 anni, poi una quantità simile a un pisello. Chiedi al dentista o al pediatra la concentrazione più adatta.",
+       "**Aiuta tu il bambino:** fino ai 7-8 anni non ha ancora la manualità per lavarsi bene i denti da solo. Lascialo provare, poi ripassa tu.",
+       "**Filo interdentale:** quando i denti si toccano tra loro, è utile anche per i bambini."
+      ]
+     },
+     {
+      "h": "Alimentazione e abitudini",
+      "ul": [
+       "**Non addormentare il bambino con il biberon** di latte, succhi o tisane zuccherate: è una causa frequente di carie gravi nei più piccoli.",
+       "Non intingere il ciuccio nello zucchero o nel miele.",
+       "Limita dolci, succhi e bibite tra un pasto e l'altro; l'acqua è la bevanda migliore.",
+       "Dopo i 2-3 anni, cerca di ridurre gradualmente ciuccio e succhiamento del dito, che possono modificare la posizione dei denti."
+      ]
+     },
+     {
+      "h": "Le visite dal dentista",
+      "p": "È utile una **prima visita già nei primi anni di vita**, anche solo per far conoscere lo studio al bambino in modo sereno, e poi controlli periodici. Verso i 6 anni spuntano i primi molari definitivi: in alcuni casi si consigliano i **sigillanti**, una protezione dei solchi contro la carie. Se il bambino cade e un dente da latte si rompe o si sposta, contatta subito lo studio: **un dente da latte uscito non va rimesso al suo posto**."
+     }
+    ],
+    "takeaway": "Curare i denti da latte significa proteggere anche quelli definitivi. Le abitudini imparate da piccoli, come lavarsi i denti ogni sera e non bere bevande zuccherate prima di dormire, durano tutta la vita. Se noti macchie bianche o scure sui denti del tuo bambino, prenota un controllo senza aspettare che faccia male."
+   },
+   {
+    "slug": "spazzolino",
+    "icon": "brush",
+    "title": "Spazzolino elettrico o manuale?",
+    "subtitle": "Pro e contro dei due spazzolini",
+    "question": "Meglio lo spazzolino elettrico o quello tradizionale?",
+    "blocks": [
+     {
+      "h": "Cosa dicono gli studi",
+      "p": "Entrambi gli spazzolini puliscono bene i denti, **se usati nel modo corretto**, due volte al giorno per due minuti. Le revisioni degli studi scientifici mostrano che gli spazzolini elettrici, soprattutto quelli a testina rotante-oscillante, rimuovono in media **un po' più di placca** e riducono un po' di più l'infiammazione delle gengive rispetto a quelli manuali. La differenza c'è, ma è contenuta: la tecnica e la costanza contano più dello strumento."
+     },
+     {
+      "h": "Quando l'elettrico aiuta di più",
+      "ul": [
+       "se hai **difficoltà nei movimenti** delle mani (per esempio per artrosi) o sei una persona anziana;",
+       "se porti un **apparecchio ortodontico** o hai impianti e protesi fisse;",
+       "per i **bambini**, che spesso lo trovano più divertente;",
+       "se tendi a **spazzolare troppo forte**: molti modelli hanno un sensore che avvisa quando premi troppo;",
+       "se fatichi a rispettare i due minuti: il timer ti aiuta."
+      ]
+     },
+     {
+      "h": "Lo spazzolino manuale va benissimo se",
+      "ul": [
+       "ha **setole morbide** e una testina piccola, che arriva bene anche ai denti in fondo;",
+       "usi una tecnica delicata, con piccoli movimenti, includendo il bordo della gengiva;",
+       "lo **cambi ogni 3 mesi** o prima, se le setole si aprono."
+      ]
+     },
+     {
+      "h": "In ogni caso",
+      "ul": [
+       "Cambia la testina dello spazzolino elettrico ogni 3 mesi, come lo spazzolino manuale.",
+       "Usa un dentifricio al fluoro.",
+       "Nessuno spazzolino pulisce tra un dente e l'altro: **filo interdentale o scovolino** restano indispensabili ogni giorno."
+      ]
+     }
+    ],
+    "takeaway": "Lo spazzolino migliore è quello che usi bene, ogni giorno. Se vuoi, durante la seduta di igiene chiedi all'igienista di mostrarti la tecnica giusta per il tuo spazzolino e di consigliarti il modello più adatto a te."
+   },
+   {
+    "slug": "miti",
+    "icon": "question",
+    "title": "Miti da sfatare",
+    "subtitle": "10 convinzioni sbagliate sull'odontoiatria",
+    "question": "Quello che «si sente dire in giro» sui denti è vero?",
+    "myths": [
+     [
+      "«Una visita va fatta solo quando fa male.»",
+      "Dolore e problemi spesso si manifestano quando la malattia è già avanzata; i controlli periodici permettono di intervenire presto e in modo più semplice."
+     ],
+     [
+      "«I denti da latte non serve curarli, tanto cadono.»",
+      "I denti da latte guidano la crescita dei denti definitivi e una carie non curata può danneggiare i denti sottostanti."
+     ],
+     [
+      "«Le gengive che sanguinano sono normali.»",
+      "È un segno di infiammazione (gengivite o parodontite) da valutare."
+     ],
+     [
+      "«Lo spazzolino duro pulisce meglio.»",
+      "Lo spazzolino a setole morbide è più efficace e non danneggia gengive e smalto."
+     ],
+     [
+      "«Se non sento dolore, non ho carie.»",
+      "Le carie iniziali sono silenziose."
+     ],
+     [
+      "«Il filo interdentale non serve, uso lo spazzolino.»",
+      "Lo spazzolino non pulisce tra i denti: il filo è indispensabile."
+     ],
+     [
+      "«L'impianto è sempre meglio del dente naturale.»",
+      "Il dente naturale, quando recuperabile, è sempre preferibile."
+     ],
+     [
+      "«I dentifrici sbiancanti fanno miracoli.»",
+      "Molti sono abrasivi e consumano lo smalto; lo sbiancamento vero va fatto dal dentista."
+     ],
+     [
+      "«La devitalizzazione è dolorosa e pericolosa.»",
+      "Con le tecniche moderne è indolore e sicura; serve a salvare il dente."
+     ],
+     [
+      "«Fumare fa male solo ai polmoni.»",
+      "Il fumo aumenta il rischio di parodontite, carie, tumori del cavo orale e rallenta ogni guarigione dopo un intervento."
+     ]
+    ],
+    "myth_label": "Falso",
+    "takeaway": "Informarsi in modo corretto è il primo passo per prendersi cura della propria bocca. Se hai un dubbio, chiedi in studio: una risposta chiara vale più di dieci consigli trovati online."
+   },
+   {
+    "slug": "tecnologia",
+    "icon": "chip",
+    "title": "Tecnologia in odontoiatria",
+    "subtitle": "Dalla radiografia 3D alla chirurgia guidata",
+    "question": "Come sono cambiate le cure dal dentista negli ultimi anni?",
+    "blocks": [
+     {
+      "h": "Cos'è",
+      "p": "L'odontoiatria moderna utilizza tecnologie digitali che rendono diagnosi e cure più precise, rapide e confortevoli per il paziente."
+     },
+     {
+      "h": "Le tecnologie principali",
+      "ol": [
+       "**Radiografia digitale:** dose di radiazioni molto inferiore, immagini immediate e condivisibili.",
+       "**TAC 3D (CBCT):** ricostruzione tridimensionale di denti e ossa, indispensabile per chirurgia e implantologia.",
+       "**Scanner intraorale:** sostituisce le impronte tradizionali (quella «pasta» spesso fastidiosa) e produce un modello digitale della bocca.",
+       "**Progettazione digitale (CAD/CAM) e fresaggio:** corone, intarsi e protesi progettate e realizzate al computer, in tempi ridotti.",
+       "**Chirurgia guidata:** l'impianto viene posizionato con una dima costruita sul modello digitale, con massima precisione e minor invasività.",
+       "**Stampa 3D:** modelli, guide e provvisori realizzati da un progetto digitale.",
+       "**Laser:** impiegati in diversi trattamenti, spesso con minor sanguinamento e guarigione più rapida.",
+       "**Microscopio:** visione ingrandita per trattamenti conservativi ed endodontici di grande precisione."
+      ]
+     }
+    ],
+    "takeaway": "La tecnologia non è un «vezzo»: consente cure più precise, meno sedute, più comfort e talvolta costi inferiori. Non sostituisce però la competenza clinica: aiuta il dentista a prendere decisioni migliori. Chiedi in studio se un trattamento può essere eseguito con tecniche digitali."
+   }
+  ]
+ },
+ "settings": {
+  "title": "Impostazioni",
+  "language": "Lingua",
+  "language_value": "Italiano",
+  "info": "Informazioni",
+  "info_value": "Versione {v}",
+  "privacy": "Privacy",
+  "contacts": "Contatti",
+  "share": "Condividi l'app",
+  "share_text": "L'app dello studio Dental Medicine Firenze. Il tuo sorriso è il miglior biglietto da visita.",
+  "copied": "Link copiato negli appunti",
+  "choose_language": "Scegli la lingua"
+ },
+ "info": {
+  "title": "Informazioni",
+  "body": [
+   "**Dental Medicine Firenze**",
+   "App pazienti · Versione {v}",
+   "Questa app è uno strumento di consultazione per i pazienti dello studio: indicazioni per raggiungerci, suggerimenti dopo gli interventi e approfondimenti di odontoiatria.",
+   "I contenuti hanno carattere informativo e generale e non sostituiscono in alcun modo le indicazioni personalizzate del tuo dentista.",
+   "Mappa © OpenStreetMap contributors. Fotografie: Dental Medicine Firenze."
+  ]
+ },
+ "privacy": {
+  "title": "Privacy",
+  "draft": "Bozza da personalizzare con il testo legale definitivo dello studio.",
+  "body": [
+   "**Titolare del trattamento:** Dental Medicine Firenze, Viale Spartaco Lavagnini 47, 50129 Firenze.",
+   "**Nessun dato personale raccolto.** Questa app è di sola consultazione: non richiede registrazione, non chiede nome, email o dati sanitari e non invia informazioni allo studio.",
+   "**Dati salvati sul tuo dispositivo.** L'app memorizza solo sul tuo telefono la lingua scelta e la preferenza sul messaggio di installazione, per ricordarle alle aperture successive. Questi dati non escono dal dispositivo e si cancellano eliminando l'app o i dati del browser.",
+   "**Nessun cookie di profilazione e nessuna analitica.**",
+   "**Servizi di terze parti.** La mappa è fornita da OpenStreetMap: per mostrarla, il browser scarica le immagini della mappa dai loro server, che ricevono il tuo indirizzo IP come avviene per qualsiasi sito web. Se scegli «Apri nel navigatore», si apre Google Maps o Apple Maps, soggetti alle rispettive informative.",
+   "**Diritti dell'interessato.** Per qualsiasi domanda sulla privacy puoi contattare lo studio al 055 483706."
+  ]
+ },
+ "contacts": {
+  "title": "Contatti",
+  "phone": "Telefono",
+  "address": "Indirizzo",
+  "map": "Vedi sulla mappa",
+  "contact_btn": "Contattaci"
+ },
+ "staff": [
+  {
+   "group": "Odontoiatri",
+   "people": [
+    [
+     "massimo-frosecchi",
+     "Dott. Massimo Frosecchi"
+    ],
+    [
+     "andrea-barbucci",
+     "Dott. Andrea Barbucci"
+    ],
+    [
+     "giovanna-cuccaro",
+     "Dott.ssa Giovanna Cuccaro"
+    ],
+    [
+     "paola-coscarella",
+     "Dott.ssa Paola Coscarella"
+    ],
+    [
+     "cintia-d-andrea",
+     "Dott.ssa Cintia D'Andrea"
+    ],
+    [
+     "giacomo-faleri",
+     "Dott. Giacomo Faleri"
+    ],
+    [
+     "barbara-petrucci",
+     "Dott.ssa Barbara Petrucci"
+    ]
+   ],
+   "fixed": 1
+  },
+  {
+   "group": "Igieniste dentali",
+   "people": [
+    [
+     "dunia",
+     "Dott.ssa Dunia Bambi"
+    ],
+    [
+     "lucia",
+     "Dott.ssa Lucia Bernini"
+    ]
+   ]
+  },
+  {
+   "group": "Assistenti",
+   "people": [
+    [
+     "claudia-bassetti",
+     "Claudia Bassetti"
+    ],
+    [
+     "lisia-d-andrea-plentz",
+     "Lisia D'Andrea Plentz"
+    ],
+    [
+     "elisa-incardona",
+     "Elisa Incardona"
+    ],
+    [
+     "klara-pochobradska",
+     "Klara Pochobradska"
+    ],
+    [
+     "donatella-signorini",
+     "Donatella Signorini"
+    ]
+   ]
+  },
+  {
+   "group": "Odontotecnico",
+   "people": [
+    [
+     "alessandro-certini",
+     "Alessandro Certini"
+    ]
+   ]
+  },
+  {
+   "group": "Staff medico",
+   "people": [
+    [
+     "isabelle-fini-storchi",
+     "Dott.ssa Isabelle Fini Storchi"
+    ]
+   ]
+  }
+ ],
+ "meds": {
+  "title": "Farmaci e cure dentali",
+  "sub": "Farmaci e condizioni di salute che cambiano le cure",
+  "card_sub": "Cosa sapere e cosa dirci prima delle cure",
+  "intro": "Alcuni farmaci e alcune condizioni di salute cambiano il modo in cui la bocca guarisce. Scegli quello che ti riguarda per sapere a cosa fare attenzione e cosa dirci.",
+  "key_title": "Tre cose da ricordare sempre",
+  "key": [
+   "**Porta l'elenco aggiornato dei farmaci** che prendi, compresi integratori e prodotti erboristici. Una foto delle confezioni va benissimo.",
+   "**Non sospendere né cambiare mai un farmaco da solo** prima di una cura dentale. Se serve, lo decidiamo insieme al medico che te lo ha prescritto.",
+   "**Avvisaci se qualcosa cambia**: un nuovo farmaco, una nuova diagnosi, un ricovero, una gravidanza."
+  ],
+  "cta_title": "Hai un dubbio prima dell'appuntamento?",
+  "cta_text": "Chiamaci prima di fare qualsiasi modifica alla tua terapia. Ti diremo cosa fare, sentendo se serve il tuo medico.",
+  "disclaimer": "Queste schede danno informazioni generali e non sostituiscono il colloquio con il dentista e con il tuo medico. Ogni situazione viene valutata in studio, caso per caso.",
+  "examples": "Per esempio:",
+  "items": [
+   {
+    "slug": "anticoagulanti",
+    "icon": "drop",
+    "title": "Anticoagulanti e antiaggreganti",
+    "sub": "Coumadin, Eliquis, Xarelto, Cardioaspirina…",
+    "parts": [
+     {
+      "t": "drugs",
+      "p": "Per esempio: **warfarin** (Coumadin), **acenocumarolo** (Sintrom), **apixaban** (Eliquis), **rivaroxaban** (Xarelto), **dabigatran** (Pradaxa), **edoxaban** (Lixiana), **acido acetilsalicilico** (Cardioaspirina), **clopidogrel** (Plavix), **ticagrelor** (Brilique)."
+     },
+     {
+      "t": "card",
+      "parts": [
+       {
+        "t": "blk",
+        "k": "r",
+        "h": "Perché è importante",
+        "p": "Questi farmaci rendono il sangue più fluido. Dopo un'estrazione, un intervento o una pulizia profonda il sanguinamento può essere più abbondante o durare di più."
+       },
+       {
+        "t": "blk",
+        "k": "s",
+        "h": "Cosa dirci",
+        "ul": [
+         "Il nome del farmaco, la dose e a che ora lo prendi.",
+         "Se prendi warfarin o Sintrom: il valore di INR più recente (di solito ci serve un controllo fatto pochi giorni prima dell'intervento).",
+         "Il nome del medico o del centro che segue la terapia."
+        ]
+       },
+       {
+        "t": "blk",
+        "k": "o",
+        "h": "A cosa fare attenzione",
+        "ul": [
+         "Molte cure si possono fare senza sospendere il farmaco: in studio usiamo tecniche e materiali che aiutano a fermare il sangue.",
+         "Dopo l'intervento comprimi la zona con una garza come ti spieghiamo, ed evita cibi caldi e sciacqui energici nelle prime 24 ore.",
+         "Per il dolore non prendere aspirina o antinfiammatori (come ibuprofene) senza averne parlato con noi: possono aumentare il sanguinamento."
+        ]
+       }
+      ]
+     },
+     {
+      "t": "never",
+      "p": "Non sospendere mai l'anticoagulante da solo: proteggerebbe dal sanguinamento ma aumenterebbe il rischio di trombosi, ictus o infarto."
+     }
+    ]
+   },
+   {
+    "slug": "bifosfonati",
+    "icon": "bone",
+    "title": "Bifosfonati e denosumab",
+    "sub": "Farmaci per osteoporosi e per le ossa",
+    "lead": "Come agiscono, quali rischi comportano nel tempo e come prevenirli.",
+    "parts": [
+     {
+      "t": "card",
+      "h": "Che cosa sono",
+      "parts": [
+       {
+        "t": "p",
+        "p": "I bifosfonati sono farmaci che **rinforzano le ossa**. Si usano soprattutto contro l'osteoporosi, per prevenire le fratture, ma anche nella malattia di Paget e, a dosi più alte, in alcuni tumori che coinvolgono le ossa, come le metastasi ossee e il mieloma. Si prendono per bocca, con iniezioni o per flebo."
+       },
+       {
+        "t": "drugs",
+        "p": "Principi attivi più comuni: **alendronato** (Fosamax), **risedronato**, **ibandronato**, **clodronato**, **acido zoledronico** (Zometa, Aclasta). Precauzioni simili valgono per il **denosumab** (Prolia, Xgeva)."
+       }
+      ]
+     },
+     {
+      "t": "card",
+      "h": "Come agiscono sulle ossa",
+      "parts": [
+       {
+        "t": "p",
+        "p": "L'osso è un tessuto vivo che si rinnova di continuo, in due fasi."
+       },
+       {
+        "t": "steps",
+        "items": [
+         [
+          "1 · Rimozione",
+          "Gli **osteoclasti** eliminano l'osso vecchio o danneggiato. **Qui agisce il farmaco.**"
+         ],
+         [
+          "2 · Ricostruzione",
+          "Gli **osteoblasti** depositano osso nuovo al suo posto."
+         ],
+         [
+          "Con il farmaco",
+          "Osso più resistente, ma che **si rinnova e si ripara più lentamente**.",
+          1
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "p": "Le **ossa delle mascelle** si rinnovano più delle altre, per la masticazione e la presenza dei denti: accumulano più farmaco e, se si feriscono o si infettano, possono guarire con difficoltà."
+       }
+      ]
+     },
+     {
+      "t": "card",
+      "h": "Il rischio principale: l'osteonecrosi delle mascelle",
+      "parts": [
+       {
+        "t": "p",
+        "p": "È una complicanza **rara**: una zona di osso della mandibola o della mascella resta scoperta o si infetta e **non guarisce per più di 8 settimane**. Compare soprattutto dopo un'estrazione o un intervento sull'osso, oppure in presenza di infezioni di denti e gengive o di protesi che feriscono."
+       },
+       {
+        "t": "stats",
+        "items": [
+         [
+          "fino a 5 su 10.000",
+          "persone che assumono bifosfonati per l'osteoporosi",
+          0
+         ],
+         [
+          "meno di 5 su 100",
+          "pazienti che ricevono acido zoledronico ad alte dosi per un tumore",
+          1
+         ]
+        ]
+       },
+       {
+        "t": "small",
+        "p": "Il rischio cresce con fumo, diabete, cortisone e alcune terapie antitumorali. Nella grande maggioranza dei casi i benefici del farmaco restano superiori ai rischi."
+       }
+      ]
+     },
+     {
+      "t": "card",
+      "h": "Il rischio nel corso degli anni",
+      "parts": [
+       {
+        "t": "time",
+        "items": [
+         [
+          "Prima di iniziare",
+          "Visita e radiografia per curare le infezioni ed estrarre i denti compromessi."
+         ],
+         [
+          "Primi anni",
+          "Con le compresse per l'osteoporosi il rischio è molto basso: cure dentali normali."
+         ],
+         [
+          "Dopo 3–4 anni",
+          "Il farmaco si è accumulato: estrazioni e impianti richiedono precauzioni specifiche."
+         ],
+         [
+          "Dopo la sospensione",
+          "Il farmaco resta nelle ossa per anni: continua a segnalarlo al dentista."
+         ]
+        ]
+       },
+       {
+        "t": "onco",
+        "p": "**Terapia oncologica per flebo:** il rischio è più alto fin dall'inizio e cresce con il numero di infusioni. La visita dal dentista prima di cominciare è indispensabile."
+       }
+      ]
+     },
+     {
+      "t": "card",
+      "h": "Cosa puoi fare tu",
+      "parts": [
+       {
+        "t": "todo",
+        "items": [
+         [
+          "Dillo sempre",
+          "A dentisti e medici, anche se hai smesso da anni. Nel dubbio, porta la confezione del farmaco."
+         ],
+         [
+          "Controlli regolari",
+          "Una visita ogni 6 mesi; ogni 3–4 mesi se ricevi il farmaco per flebo per un tumore."
+         ],
+         [
+          "Igiene professionale",
+          "Una seduta ogni 4–6 mesi tiene sotto controllo tartaro e gengive: è un trattamento sicuro."
+         ],
+         [
+          "Igiene a casa",
+          "Spazzolino morbido due volte al giorno, dentifricio al fluoro, filo o scovolino ogni sera."
+         ],
+         [
+          "Protesi mobili",
+          "Toglile di notte e puliscile. Se causano una piaga o un'irritazione, chiama subito lo studio."
+         ],
+         [
+          "Non sospendere il farmaco",
+          "Protegge le ossa dalle fratture: eventuali pause le decide il medico, d'accordo con il dentista."
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "t": "alert",
+      "h": "Chiama subito lo studio se noti",
+      "ul": [
+       "osso visibile in bocca",
+       "gengive arrossate o con pus",
+       "un'estrazione che non guarisce",
+       "una protesi che non calza più",
+       "dolore o gonfiore alla mascella",
+       "denti che si muovono senza motivo",
+       "labbro o mento intorpiditi",
+       "alito cattivo che non passa"
+      ]
+     },
+     {
+      "t": "note",
+      "p": "Fonti: AAOMS Position Paper on MRONJ (2022); Raccomandazioni SIPMO-SICMF sull'osteonecrosi farmaco-relata."
+     }
+    ]
+   },
+   {
+    "slug": "diabete",
+    "icon": "glucose",
+    "title": "Diabete",
+    "sub": "Compresse, insulina, controllo glicemia",
+    "parts": [
+     {
+      "t": "card",
+      "parts": [
+       {
+        "t": "blk",
+        "k": "r",
+        "h": "Perché è importante",
+        "p": "Con la glicemia alta le gengive si infiammano più facilmente, le ferite guariscono più lentamente e le infezioni sono più frequenti. Vale anche il contrario: curare le gengive aiuta a tenere meglio sotto controllo il diabete."
+       },
+       {
+        "t": "blk",
+        "k": "s",
+        "h": "Cosa dirci",
+        "ul": [
+         "Che tipo di diabete hai e quali farmaci prendi (compresse, insulina, altre iniezioni).",
+         "L'ultimo valore di emoglobina glicata (HbA1c), se lo conosci.",
+         "Se ti capitano spesso cali di zucchero (ipoglicemie)."
+        ]
+       },
+       {
+        "t": "blk",
+        "k": "o",
+        "h": "A cosa fare attenzione",
+        "ul": [
+         "Il giorno dell'appuntamento mangia e prendi i farmaci come al solito. Saltare il pasto con l'insulina o alcune compresse può causare un calo di zucchero.",
+         "Porta con te zucchero, caramelle o un succo di frutta.",
+         "Se durante la seduta ti senti debole, sudato, tremante o confuso, diccelo subito.",
+         "Controlla con più attenzione la glicemia nei giorni dopo un intervento."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "slug": "cuore",
+    "icon": "heart",
+    "title": "Cuore e pressione",
+    "sub": "Valvole, pacemaker, ipertensione",
+    "parts": [
+     {
+      "t": "card",
+      "parts": [
+       {
+        "t": "blk",
+        "k": "r",
+        "h": "Perché è importante",
+        "p": "Alcune condizioni del cuore richiedono un antibiotico prima di certe cure, per evitare che i batteri della bocca raggiungano il cuore. Anche la pressione alta e alcuni dispositivi impiantati vanno conosciuti in anticipo."
+       },
+       {
+        "t": "blk",
+        "k": "s",
+        "h": "Cosa dirci",
+        "ul": [
+         "Se hai una valvola cardiaca artificiale, hai avuto un'endocardite (infezione del cuore) o hai una malattia cardiaca congenita.",
+         "Se hai un pacemaker o un defibrillatore impiantato.",
+         "Se soffri di pressione alta, di aritmie o hai avuto un infarto o un ictus, e quando."
+        ]
+       },
+       {
+        "t": "blk",
+        "k": "o",
+        "h": "A cosa fare attenzione",
+        "ul": [
+         "Prendi i farmaci per la pressione e per il cuore come al solito, anche il giorno dell'appuntamento.",
+         "Se serve l'antibiotico prima della cura, te lo indichiamo noi, se necessario sentito il cardiologo. Non prenderlo di tua iniziativa.",
+         "Scegliamo il tipo e la quantità di anestetico più adatti a te."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "slug": "difese-immunitarie",
+    "icon": "shield",
+    "title": "Difese immunitarie ridotte",
+    "sub": "Chemio, radioterapia, cortisone, biologici",
+    "parts": [
+     {
+      "t": "drugs",
+      "p": "Per esempio: **chemioterapia**, **radioterapia** alla testa o al collo, **cortisone** preso a lungo, farmaci **immunosoppressori** o **biologici** (dopo un trapianto, per artrite reumatoide, psoriasi, malattie intestinali)."
+     },
+     {
+      "t": "card",
+      "parts": [
+       {
+        "t": "blk",
+        "k": "r",
+        "h": "Perché è importante",
+        "p": "Quando le difese sono basse, anche una piccola infezione della bocca può diventare più seria, e le ferite guariscono più lentamente. Dopo radioterapia alla testa o al collo l'osso delle mascelle diventa più delicato."
+       },
+       {
+        "t": "blk",
+        "k": "s",
+        "h": "Cosa dirci",
+        "ul": [
+         "Quali cure stai facendo o hai fatto, e quando.",
+         "Se è previsto l'inizio di chemioterapia, radioterapia o una terapia biologica: una visita prima permette di risolvere in anticipo eventuali problemi."
+        ]
+       },
+       {
+        "t": "blk",
+        "k": "o",
+        "h": "A cosa fare attenzione",
+        "ul": [
+         "Pianifichiamo le cure nei momenti più adatti, se necessario insieme al tuo medico o oncologo.",
+         "Cura con attenzione l'igiene orale e segnalaci afte, ferite o gengive che sanguinano."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "slug": "allergie-gravidanza",
+    "icon": "info",
+    "title": "Allergie, gravidanza e altro",
+    "sub": "Integratori, fegato, reni",
+    "parts": [
+     {
+      "t": "card",
+      "parts": [
+       {
+        "t": "blk",
+        "k": "s",
+        "h": "Diccelo sempre",
+        "ul": [
+         "**Allergie** a farmaci (antibiotici, antidolorifici, anestetici), al lattice o ai metalli.",
+         "**Gravidanza** o allattamento, anche se solo sospettati: le cure si possono fare, scegliendo i momenti, i farmaci e gli esami più sicuri.",
+         "**Integratori e prodotti naturali**: alcuni, come ginkgo, omega-3 ad alte dosi o aglio in capsule, possono aumentare il sanguinamento.",
+         "Malattie di **fegato** o **reni**, asma, epilessia: cambiano la scelta dei farmaci."
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
